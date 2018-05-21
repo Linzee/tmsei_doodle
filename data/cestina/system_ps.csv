@@ -1,0 +1,646 @@
+id;parent;weight;exercise;type;grade;class;topic;examples;url;mapId;visible;ordering
+1;1;1;1;basic;1;3;;;doplnovacka-vyjmenovana-slova-po-b-1-uroven;1;1;0
+2;1;1;1;basic;2;5;;;doplnovacka-vyjmenovana-slova-po-b-2-uroven;1;1;0
+3;1;1;1;basic;3;7;;;doplnovacka-vyjmenovana-slova-po-b-3-uroven;1;1;0
+4;1;1;1;basic;1;3;;;doplnovacka-vyjmenovana-slova-po-l-1-uroven;2;1;0
+5;1;1;1;basic;2;5;;;doplnovacka-vyjmenovana-slova-po-l-2-uroven;2;1;0
+6;1;1;1;basic;1;3;;;doplnovacka-vyjmenovana-slova-po-m-1-uroven;3;1;0
+7;1;1;1;basic;2;5;;;doplnovacka-vyjmenovana-slova-po-m-2-uroven;3;1;0
+8;1;1;1;basic;1;3;;;doplnovacka-vyjmenovana-slova-po-p-1-uroven;4;1;0
+9;1;1;1;basic;2;5;;;doplnovacka-vyjmenovana-slova-po-p-2-uroven;4;1;0
+10;1;1;1;basic;1;3;;;doplnovacka-vyjmenovana-slova-po-s-1-uroven;5;1;0
+11;1;1;1;basic;2;5;;;doplnovacka-vyjmenovana-slova-po-s-2-uroven;5;1;0
+12;1;1;1;basic;1;3;;;doplnovacka-vyjmenovana-slova-po-v-1-uroven;6;1;0
+13;1;1;1;basic;2;5;;;doplnovacka-vyjmenovana-slova-po-v-2-uroven;6;1;0
+14;1;1;1;basic;1;3;;;doplnovacka-vyjmenovana-slova-po-z-1-uroven;7;1;0
+15;1;1;1;basic;2;5;;;doplnovacka-vyjmenovana-slova-po-z-2-uroven;7;1;0
+16;1;1;1;basic;1;3;;;doplnovacka-koncovky-podstatnych-jmen-muzsky-rod-1-uroven;8;1;0
+17;1;1;1;basic;2;5;;;doplnovacka-koncovky-podstatnych-jmen-muzsky-rod-2-uroven;8;1;0
+18;1;1;1;basic;3;7;;;doplnovacka-koncovky-podstatnych-jmen-muzsky-rod-3-uroven;8;1;0
+19;1;1;1;basic;1;3;;;doplnovacka-koncovky-podstatnych-jmen-zensky-rod-1-uroven;9;1;0
+20;1;1;1;basic;2;5;;;doplnovacka-koncovky-podstatnych-jmen-zensky-rod-2-uroven;9;1;0
+21;1;1;1;basic;3;7;;;doplnovacka-koncovky-podstatnych-jmen-zensky-rod-3-uroven;9;1;0
+22;1;1;1;basic;1;3;;;doplnovacka-koncovky-podstatnych-jmen-stredni-rod-1-uroven;10;1;0
+23;1;1;1;basic;2;5;;;doplnovacka-koncovky-podstatnych-jmen-stredni-rod-2-uroven;10;1;0
+24;1;1;1;basic;1;3;;;doplnovacka-koncovky-pridavnych-jmen-1-uroven;11;1;0
+25;1;1;1;basic;2;5;;;doplnovacka-koncovky-pridavnych-jmen-2-uroven;11;1;0
+26;1;1;1;basic;2;5;;;doplnovacka-koncovky-ovi-ovy-2-uroven;12;1;0
+27;1;1;1;basic;2;5;;;doplnovacka-koncovky-mi-my-ma-2-uroven;13;1;0
+28;1;1;1;basic;1;3;;;doplnovacka-shoda-podmetu-s-prisudkem-1-uroven;14;1;0
+29;1;1;1;basic;2;5;;;doplnovacka-shoda-podmetu-s-prisudkem-2-uroven;14;1;0
+30;1;1;1;basic;3;7;;;doplnovacka-shoda-podmetu-s-prisudkem-3-uroven;14;1;0
+31;1;1;1;basic;2;5;;;doplnovacka-psani-me-mne-ve-slove-2-uroven;15;1;0
+32;1;1;1;basic;3;7;;;doplnovacka-psani-me-mne-ve-slove-3-uroven;15;1;0
+33;1;1;1;basic;2;5;;;doplnovacka-me-mne-samostatne-zajmeno-ja-2-uroven;16;1;0
+34;1;1;1;basic;1;3;;;doplnovacka-psani-be-bje-1-uroven;17;1;0
+35;1;1;1;basic;1;3;;;doplnovacka-psani-ve-vje-1-uroven;18;1;0
+36;1;1;1;basic;1;3;;;doplnovacka-psani-nn-a-n-1-uroven;19;1;0
+37;1;1;1;basic;2;5;;;doplnovacka-psani-nn-a-n-2-uroven;19;1;0
+38;1;1;1;basic;3;7;;;doplnovacka-psani-nn-a-n-3-uroven;19;1;0
+39;1;1;1;basic;2;5;;;doplnovacka-dalsi-zdvojene-souhlasky-dd-zz-kk-cc-jj-2-uroven;20;1;0
+40;1;1;1;basic;2;5;;;doplnovacka-jedno-versus-dve-pismena-c-ts-s-zs-2-uroven;21;1;0
+41;1;1;1;basic;1;3;;;doplnovacka-psani-s-z-na-zacatku-slova-1-uroven;22;1;0
+42;1;1;1;basic;2;5;;;doplnovacka-psani-s-z-na-zacatku-slova-2-uroven;22;1;0
+43;1;1;1;basic;3;7;;;doplnovacka-psani-s-z-na-zacatku-slova-3-uroven;22;1;0
+44;1;1;1;basic;1;3;;;doplnovacka-predlozky-s-z-1-uroven;23;1;0
+45;1;1;1;basic;1;3;;;doplnovacka-souhlasky-parove-p-b-t-d-1-uroven;24;1;0
+46;1;1;1;basic;2;5;;;doplnovacka-souhlasky-parove-p-b-t-d-2-uroven;24;1;0
+47;1;1;1;basic;3;7;;;doplnovacka-souhlasky-parove-p-b-t-d-3-uroven;24;1;0
+48;1;1;1;basic;2;5;;;doplnovacka-psani-s-c-s-z-2-uroven;25;1;0
+49;1;1;1;basic;1;3;;;doplnovacka-delka-samohlasek-u-1-uroven;26;1;0
+50;1;1;1;basic;2;5;;;doplnovacka-delka-samohlasek-u-2-uroven;26;1;0
+51;1;1;1;basic;3;7;;;doplnovacka-delka-samohlasek-i-3-uroven;27;1;0
+52;1;1;1;basic;2;5;;;doplnovacka-prejata-slova-souhlasky-2-uroven;28;1;0
+53;1;1;1;basic;3;7;;;doplnovacka-prejata-slova-souhlasky-3-uroven;28;1;0
+54;1;1;1;basic;2;5;;;doplnovacka-prejata-slova-samohlasky-2-uroven;29;1;0
+55;1;1;1;basic;3;7;;;doplnovacka-prejata-slova-samohlasky-3-uroven;29;1;0
+56;1;1;1;basic;3;7;;;doplnovacka-sklonovani-zajmen-jez-jenz-nimz-ji-3-uroven;30;1;0
+57;1;1;1;basic;2;5;;;doplnovacka-sklonovani-pridavnych-jmen-2-uroven;31;1;0
+58;1;1;1;basic;2;5;;;doplnovacka-sklonovani-podstatnych-jmen-2-uroven;32;1;0
+59;1;1;1;basic;3;7;;;doplnovacka-sklonovani-podstatnych-jmen-3-uroven;32;1;0
+60;1;1;1;basic;2;5;;;doplnovacka-slovesa-podminovaci-zvratna-2-uroven;33;1;0
+61;1;1;1;basic;2;5;;;doplnovacka-zkratky-2-uroven;34;1;0
+62;1;1;1;basic;3;7;;;doplnovacka-zkratky-3-uroven;34;1;0
+63;1;1;1;basic;3;7;;;doplnovacka-cislovky-a-mezery-3-uroven;35;1;0
+64;1;1;1;basic;2;5;;;doplnovacka-sprezky-2-uroven;36;1;0
+65;1;1;1;basic;3;7;;;doplnovacka-sprezky-3-uroven;36;1;0
+66;1;1;1;basic;1;3;;;doplnovacka-velka-pismena-lide-jmena-1-uroven;38;1;0
+67;1;1;1;basic;2;5;;;doplnovacka-velka-pismena-lide-jmena-2-uroven;38;1;0
+68;1;1;1;basic;3;7;;;doplnovacka-velka-pismena-lide-jmena-3-uroven;38;1;0
+69;1;1;1;basic;2;5;;;doplnovacka-velka-pismena-narody-skupiny-osob-2-uroven;39;1;0
+70;1;1;1;basic;3;7;;;doplnovacka-velka-pismena-narody-skupiny-osob-3-uroven;39;1;0
+71;1;1;1;basic;3;7;;;doplnovacka-velka-pismena-instituce-organizace-3-uroven;40;1;0
+72;1;1;1;basic;2;5;;;doplnovacka-velka-pismena-dny-obdobi-udalosti-2-uroven;41;1;0
+73;1;1;1;basic;3;7;;;doplnovacka-velka-pismena-dny-obdobi-udalosti-3-uroven;41;1;0
+74;1;1;1;basic;2;5;;;doplnovacka-velka-pismena-geografie-priroda-vesmir-2-uroven;42;1;0
+75;1;1;1;basic;3;7;;;doplnovacka-velka-pismena-geografie-priroda-vesmir-3-uroven;42;1;0
+76;1;1;1;basic;2;5;;;doplnovacka-velka-pismena-staty-oblasti-2-uroven;43;1;0
+77;1;1;1;basic;3;7;;;doplnovacka-velka-pismena-staty-oblasti-3-uroven;43;1;0
+78;1;1;1;basic;1;3;;;doplnovacka-velka-pismena-mesta-casti-mest-ulice-1-uroven;44;1;0
+79;1;1;1;basic;2;5;;;doplnovacka-velka-pismena-mesta-casti-mest-ulice-2-uroven;44;1;0
+80;1;1;1;basic;3;7;;;doplnovacka-velka-pismena-mesta-casti-mest-ulice-3-uroven;44;1;0
+81;1;1;1;basic;1;3;;;doplnovacka-velka-pismena-budovy-stavby-1-uroven;45;1;0
+82;1;1;1;basic;2;5;;;doplnovacka-velka-pismena-budovy-stavby-2-uroven;45;1;0
+83;1;1;1;basic;3;7;;;doplnovacka-velka-pismena-budovy-stavby-3-uroven;45;1;0
+84;1;1;1;basic;1;3;;;tvrde-a-mekke-souhlasky-1-uroven;47;1;0
+85;1;1;2;basic;1;3;;;otazky-vyjmenovana-slova-po-b-1-uroven;1;1;0
+86;1;1;2;basic;2;5;;;otazky-vyjmenovana-slova-po-b-2-uroven;1;1;0
+87;1;1;2;basic;3;7;;;otazky-vyjmenovana-slova-po-b-3-uroven;1;1;0
+88;1;1;2;basic;1;3;;;otazky-vyjmenovana-slova-po-l-1-uroven;2;1;0
+89;1;1;2;basic;2;5;;;otazky-vyjmenovana-slova-po-l-2-uroven;2;1;0
+90;1;1;2;basic;1;3;;;otazky-vyjmenovana-slova-po-m-1-uroven;3;1;0
+91;1;1;2;basic;2;5;;;otazky-vyjmenovana-slova-po-m-2-uroven;3;1;0
+92;1;1;2;basic;1;3;;;otazky-vyjmenovana-slova-po-p-1-uroven;4;1;0
+93;1;1;2;basic;2;5;;;otazky-vyjmenovana-slova-po-p-2-uroven;4;1;0
+94;1;1;2;basic;1;3;;;otazky-vyjmenovana-slova-po-s-1-uroven;5;1;0
+95;1;1;2;basic;2;5;;;otazky-vyjmenovana-slova-po-s-2-uroven;5;1;0
+96;1;1;2;basic;1;3;;;otazky-vyjmenovana-slova-po-v-1-uroven;6;1;0
+97;1;1;2;basic;2;5;;;otazky-vyjmenovana-slova-po-v-2-uroven;6;1;0
+98;1;1;2;basic;1;3;;;otazky-vyjmenovana-slova-po-z-1-uroven;7;1;0
+99;1;1;2;basic;2;5;;;otazky-vyjmenovana-slova-po-z-2-uroven;7;1;0
+100;1;1;2;basic;1;3;;;otazky-koncovky-podstatnych-jmen-muzsky-rod-1-uroven;8;1;0
+101;1;1;2;basic;2;5;;;otazky-koncovky-podstatnych-jmen-muzsky-rod-2-uroven;8;1;0
+102;1;1;2;basic;3;7;;;otazky-koncovky-podstatnych-jmen-muzsky-rod-3-uroven;8;1;0
+103;1;1;2;basic;1;3;;;otazky-koncovky-podstatnych-jmen-zensky-rod-1-uroven;9;1;0
+104;1;1;2;basic;2;5;;;otazky-koncovky-podstatnych-jmen-zensky-rod-2-uroven;9;1;0
+105;1;1;2;basic;3;7;;;otazky-koncovky-podstatnych-jmen-zensky-rod-3-uroven;9;1;0
+106;1;1;2;basic;1;3;;;otazky-koncovky-podstatnych-jmen-stredni-rod-1-uroven;10;1;0
+107;1;1;2;basic;2;5;;;otazky-koncovky-podstatnych-jmen-stredni-rod-2-uroven;10;1;0
+108;1;1;2;basic;1;3;;;otazky-koncovky-pridavnych-jmen-1-uroven;11;1;0
+109;1;1;2;basic;2;5;;;otazky-koncovky-pridavnych-jmen-2-uroven;11;1;0
+110;1;1;2;basic;2;5;;;otazky-koncovky-ovi-ovy-2-uroven;12;1;0
+111;1;1;2;basic;2;5;;;otazky-koncovky-mi-my-ma-2-uroven;13;1;0
+112;1;1;2;basic;1;3;;;otazky-shoda-podmetu-s-prisudkem-1-uroven;14;1;0
+113;1;1;2;basic;2;5;;;otazky-shoda-podmetu-s-prisudkem-2-uroven;14;1;0
+114;1;1;2;basic;3;7;;;otazky-shoda-podmetu-s-prisudkem-3-uroven;14;1;0
+115;1;1;2;basic;2;5;;;otazky-psani-me-mne-ve-slove-2-uroven;15;1;0
+116;1;1;2;basic;3;7;;;otazky-psani-me-mne-ve-slove-3-uroven;15;1;0
+117;1;1;2;basic;2;5;;;otazky-me-mne-samostatne-zajmeno-ja-2-uroven;16;1;0
+118;1;1;2;basic;1;3;;;otazky-psani-be-bje-1-uroven;17;1;0
+119;1;1;2;basic;1;3;;;otazky-psani-ve-vje-1-uroven;18;1;0
+120;1;1;2;basic;1;3;;;otazky-psani-nn-a-n-1-uroven;19;1;0
+121;1;1;2;basic;2;5;;;otazky-psani-nn-a-n-2-uroven;19;1;0
+122;1;1;2;basic;3;7;;;otazky-psani-nn-a-n-3-uroven;19;1;0
+123;1;1;2;basic;2;5;;;otazky-dalsi-zdvojene-souhlasky-dd-zz-kk-cc-jj-2-uroven;20;1;0
+124;1;1;2;basic;2;5;;;otazky-jedno-versus-dve-pismena-c-ts-s-zs-2-uroven;21;1;0
+125;1;1;2;basic;1;3;;;otazky-psani-s-z-na-zacatku-slova-1-uroven;22;1;0
+126;1;1;2;basic;2;5;;;otazky-psani-s-z-na-zacatku-slova-2-uroven;22;1;0
+127;1;1;2;basic;3;7;;;otazky-psani-s-z-na-zacatku-slova-3-uroven;22;1;0
+128;1;1;2;basic;1;3;;;otazky-predlozky-s-z-1-uroven;23;1;0
+129;1;1;2;basic;1;3;;;otazky-souhlasky-parove-p-b-t-d-1-uroven;24;1;0
+130;1;1;2;basic;2;5;;;otazky-souhlasky-parove-p-b-t-d-2-uroven;24;1;0
+131;1;1;2;basic;3;7;;;otazky-souhlasky-parove-p-b-t-d-3-uroven;24;1;0
+132;1;1;2;basic;2;5;;;otazky-psani-s-c-s-z-2-uroven;25;1;0
+133;1;1;2;basic;1;3;;;otazky-delka-samohlasek-u-1-uroven;26;1;0
+134;1;1;2;basic;2;5;;;otazky-delka-samohlasek-u-2-uroven;26;1;0
+135;1;1;2;basic;3;7;;;otazky-delka-samohlasek-i-3-uroven;27;1;0
+136;1;1;2;basic;2;5;;;otazky-prejata-slova-souhlasky-2-uroven;28;1;0
+137;1;1;2;basic;3;7;;;otazky-prejata-slova-souhlasky-3-uroven;28;1;0
+138;1;1;2;basic;2;5;;;otazky-prejata-slova-samohlasky-2-uroven;29;1;0
+139;1;1;2;basic;3;7;;;otazky-prejata-slova-samohlasky-3-uroven;29;1;0
+140;1;1;2;basic;3;7;;;otazky-sklonovani-zajmen-jez-jenz-nimz-ji-3-uroven;30;1;0
+141;1;1;2;basic;2;5;;;otazky-sklonovani-pridavnych-jmen-2-uroven;31;1;0
+142;1;1;2;basic;2;5;;;otazky-sklonovani-podstatnych-jmen-2-uroven;32;1;0
+143;1;1;2;basic;3;7;;;otazky-sklonovani-podstatnych-jmen-3-uroven;32;1;0
+144;1;1;2;basic;2;5;;;otazky-slovesa-podminovaci-zvratna-2-uroven;33;1;0
+145;1;1;2;basic;2;5;;;otazky-zkratky-2-uroven;34;1;0
+146;1;1;2;basic;3;7;;;otazky-zkratky-3-uroven;34;1;0
+147;1;1;2;basic;3;7;;;otazky-cislovky-a-mezery-3-uroven;35;1;0
+148;1;1;2;basic;2;5;;;otazky-sprezky-2-uroven;36;1;0
+149;1;1;2;basic;3;7;;;otazky-sprezky-3-uroven;36;1;0
+150;1;1;2;basic;1;3;;;otazky-velka-pismena-lide-jmena-1-uroven;38;1;0
+151;1;1;2;basic;2;5;;;otazky-velka-pismena-lide-jmena-2-uroven;38;1;0
+152;1;1;2;basic;3;7;;;otazky-velka-pismena-lide-jmena-3-uroven;38;1;0
+153;1;1;2;basic;2;5;;;otazky-velka-pismena-narody-skupiny-osob-2-uroven;39;1;0
+154;1;1;2;basic;3;7;;;otazky-velka-pismena-narody-skupiny-osob-3-uroven;39;1;0
+155;1;1;2;basic;3;7;;;otazky-velka-pismena-instituce-organizace-3-uroven;40;1;0
+156;1;1;2;basic;2;5;;;otazky-velka-pismena-dny-obdobi-udalosti-2-uroven;41;1;0
+157;1;1;2;basic;3;7;;;otazky-velka-pismena-dny-obdobi-udalosti-3-uroven;41;1;0
+158;1;1;2;basic;2;5;;;otazky-velka-pismena-geografie-priroda-vesmir-2-uroven;42;1;0
+159;1;1;2;basic;3;7;;;otazky-velka-pismena-geografie-priroda-vesmir-3-uroven;42;1;0
+160;1;1;2;basic;2;5;;;otazky-velka-pismena-staty-oblasti-2-uroven;43;1;0
+161;1;1;2;basic;3;7;;;otazky-velka-pismena-staty-oblasti-3-uroven;43;1;0
+162;1;1;2;basic;1;3;;;otazky-velka-pismena-mesta-casti-mest-ulice-1-uroven;44;1;0
+163;1;1;2;basic;2;5;;;otazky-velka-pismena-mesta-casti-mest-ulice-2-uroven;44;1;0
+164;1;1;2;basic;3;7;;;otazky-velka-pismena-mesta-casti-mest-ulice-3-uroven;44;1;0
+165;1;1;2;basic;1;3;;;otazky-velka-pismena-budovy-stavby-1-uroven;45;1;0
+166;1;1;2;basic;2;5;;;otazky-velka-pismena-budovy-stavby-2-uroven;45;1;0
+167;1;1;2;basic;3;7;;;otazky-velka-pismena-budovy-stavby-3-uroven;45;1;0
+168;1;1;2;basic;1;3;;;otazky-spisovne-nebo-nespisovne-1-uroven;46;1;0
+169;26;1;3;basic;1;3;;;diktat-vyjmenovana-slova-po-b-1-uroven;1;1;0
+170;26;1;3;basic;2;5;;;diktat-vyjmenovana-slova-po-b-2-uroven;1;1;0
+171;28;1;3;basic;1;4;;;diktat-vyjmenovana-slova-po-m-1-uroven;2;1;0
+172;28;1;3;basic;2;5;;;diktat-vyjmenovana-slova-po-m-2-uroven;2;1;0
+173;29;1;3;basic;2;5;;;diktat-vyjmenovana-slova-po-p-2-uroven;3;1;0
+174;39;1;3;basic;2;5;;;diktat-shoda-podmetu-s-prisudkem-2-uroven;4;1;0
+175;39;1;3;basic;3;8;;;diktat-shoda-podmetu-s-prisudkem-3-uroven;4;1;0
+176;150;1;3;basic;2;5;Koncovky přídavných jmen;;diktat-koncovky-pridavnych-jmen-i-y-2-uroven;7;1;0
+177;44;1;3;basic;2;6;;;diktat-souhlaskova-skupina-nn-n-2-uroven;8;1;0
+178;153;1;3;basic;2;6;Psaní mě/mně;;diktat-psani-me-a-mne-2-uroven;9;1;2
+179;47;1;3;basic;2;6;;;diktat-psani-predpony-s-z-vz-2-uroven;10;1;0
+180;47;1;3;basic;3;8;;;diktat-psani-predpony-s-z-vz-3-uroven;10;1;0
+181;27;1;3;basic;2;5;;;diktat-vyjmenovana-slova-po-l-2-uroven;11;1;0
+182;30;1;3;basic;2;5;;;diktat-vyjmenovana-slova-po-s-2-uroven;12;1;0
+183;31;1;3;basic;2;5;;;diktat-vyjmenovana-slova-po-v-2-uroven;13;1;0
+184;32;1;3;basic;2;5;;;diktat-vyjmenovana-slova-po-z-2-uroven;14;1;0
+185;42;1;3;basic;1;5;;;diktat-be-bje-ve-vje-pe-me-mne-1-uroven;15;1;1
+186;150;1;3;basic;2;6;Koncovky podstatných jmen;;diktat-koncovky-podstatnych-jmen-i-y-2-uroven;16;1;0
+187;142;1;3;basic;1;4;Různé výskyty I/Y;;diktat-ruzne-vyskyty-i-y-1-uroven;17;1;0
+188;142;1;3;basic;2;8;Různé výskyty I/Y;;diktat-ruzne-vyskyty-i-y-2-uroven;17;1;0
+189;151;1;3;basic;1;4;;;diktat-velka-pismena-vlastni-jmena-1-uroven;18;1;0
+190;151;1;3;basic;2;6;;;diktat-velka-pismena-vlastni-jmena-2-uroven;18;1;0
+191;151;1;3;basic;3;10;;;diktat-velka-pismena-vlastni-jmena-3-uroven;18;1;0
+192;61;1;3;basic;2;7;;;diktat-sprezky-2-uroven;19;1;0
+193;61;1;3;basic;3;10;;;diktat-sprezky-3-uroven;19;1;0
+194;157;1;3;basic;2;8;;;diktat-prejata-slova-2-uroven;20;1;0
+195;156;1;3;basic;2;5;;;diktat-delka-samohlasek-2-uroven;21;1;0
+196;155;1;3;basic;1;6;;;diktat-souhlasky-parove-1-uroven;22;1;0
+197;143;1;3;basic;2;6;;;diktat-sklonovani-2-uroven;23;1;0
+198;37;1;3;basic;2;5;;;diktat-koncovky-ovi-ovy-2-uroven;24;1;0
+199;141;1;3;basic;2;5;Příběh: Příliš mnoho dobrodružství;;diktat-pribeh-prilis-mnoho-dobrodruzstvi-2-uroven;25;1;0
+200;141;1;3;basic;2;6;Příběh: Morbidní story s příchutí šlehačky;;diktat-pribeh-morbidni-story-s-prichuti-slehacky-2-uroven;26;1;0
+201;141;1;3;basic;2;5;Příběh: Výprava k prameni potoka;;diktat-pribeh-vyprava-k-prameni-potoka-2-uroven;27;1;0
+202;141;1;3;basic;2;6;Příběh: V jeskyni;;diktat-pribeh-v-jeskyni-2-uroven;28;1;0
+203;62;1;3;basic;2;8;Přímá řeč;;diktat-prima-rec-2-uroven;29;1;0
+204;69;1;3;basic;2;7;;;diktat-velka-pismena-mesta-casti-mest-ulice-2-uroven;30;1;0
+205;67;1;3;basic;2;7;;;diktat-velka-pismena-geografie-priroda-vesmir-2-uroven;31;1;0
+206;70;1;3;basic;2;9;;;diktat-velka-pismena-budovy-stavby-2-uroven;32;1;0
+207;80;1;4;basic;3;9;;Žáci sedící v této třídě jsou sedmáci. Budova školy, postavená roku 1875, je na spadnutí. Kůň, statný ryzák, ladně cválal.;psani-carek-veta-jednoducha-privlastek-volny-a-tesny-3-uroven;1;1;0
+208;81;1;4;basic;2;7;;Pes, kráva, kočka a velryba jsou savci. Byl vysoký, ale hubený.;psani-carek-veta-jednoducha-nekolikanasobne-vetne-cleny-2-uroven;2;1;0
+209;81;1;4;basic;3;10;;Babička, jakožto dědeček chodí o holi. Stojí to 50, a ne 60 Kč.;psani-carek-veta-jednoducha-nekolikanasobne-vetne-cleny-3-uroven;2;1;0
+210;84;1;4;basic;2;5;;Neměla mapu, proto se ztratila.;psani-carek-souveti-souradne-2-uroven;4;1;0
+211;84;1;4;basic;3;8;;Hrála na kytaru, dokonce i zpívala.;psani-carek-souveti-souradne-3-uroven;4;1;0
+212;85;1;4;basic;1;4;;Spal, aby byl čilý.;psani-carek-souveti-podradne-1-uroven;5;1;0
+213;85;1;4;basic;2;6;;Neví, kde je.;psani-carek-souveti-podradne-2-uroven;5;1;0
+214;86;1;4;basic;2;8;;Čas, který jsme měli, vypršel.;psani-carek-souveti-vlozene-vety-2-uroven;6;1;0
+215;87;1;4;basic;2;8;;Šla Nanynka do zelí a natrhala tam lupení, jenže pak přišel Pepíček, který jí rozšlapal košíček.;psani-carek-souveti-s-vice-vetami-2-uroven;7;1;0
+216;87;1;4;basic;3;10;;Nevěděli jsme, že pršelo a pak mrzlo, a tak jsme jeli autem rychle, což se nám nevyplatilo.;psani-carek-souveti-s-vice-vetami-3-uroven;7;1;0
+217;139;1;4;basic;2;9;;Nemaje na zaplacení vstupenky, odešel.;psani-carek-souveti-specialni-pripady-2-uroven;8;1;0
+218;139;1;4;basic;3;10;;Stejně jako v pondělí ani dnes nebudeme psát písemku.;psani-carek-souveti-specialni-pripady-3-uroven;8;1;0
+219;140;1;4;basic;2;5;Čapek: Dášeňka;;psani-carek-capek-mix-dasenka-2-uroven;9;0;0
+220;140;1;4;basic;3;9;Čapek: Dášeňka;;psani-carek-capek-mix-dasenka-3-uroven;9;1;0
+221;140;1;4;basic;3;10;Čapek: Jak se co dělá;;psani-carek-capek-jak-se-co-dela-3-uroven;10;1;0
+222;140;1;4;basic;2;8;Citáty;;psani-carek-citaty-2-uroven;11;0;0
+223;140;1;4;basic;3;10;Citáty;;psani-carek-citaty-3-uroven;11;1;0
+224;140;1;4;basic;1;6;Přísloví;;psani-carek-prislovi-1-uroven;12;1;0
+225;140;1;4;basic;2;8;Přísloví;;psani-carek-prislovi-2-uroven;12;1;0
+226;140;1;4;basic;3;10;Přísloví;;psani-carek-prislovi-3-uroven;12;1;0
+227;82;1;4;basic;3;9;;Nepracuje, a tak nejí. Zůstaneš, nebo půjdeš?;psani-carek-veta-jednoducha-a-nebo-3-uroven;13;1;0
+228;90;1;5;basic;1;5;Harry Potter;;vetne_cleny_harry_potter-1-uroven;1;1;0
+229;90;1;5;basic;2;7;Harry Potter;;vetne_cleny_harry_potter-2-uroven;1;1;0
+230;90;1;5;basic;3;9;Harry Potter;;vetne_cleny_harry_potter-3-uroven;1;1;0
+231;90;1;5;basic;1;5;Vinnetou;;vetne_cleny_vinnetou-1-uroven;2;1;0
+232;90;1;5;basic;2;7;Vinnetou;;vetne_cleny_vinnetou-2-uroven;2;1;0
+233;90;1;5;basic;1;5;Simpsonovi;;vetne_cleny_simpsonovi-1-uroven;3;1;0
+234;90;1;5;basic;2;7;Simpsonovi;;vetne_cleny_simpsonovi-2-uroven;3;1;0
+235;90;1;5;basic;3;9;Simpsonovi;;vetne_cleny_simpsonovi-3-uroven;3;1;0
+236;90;1;5;basic;2;6;Palačinky;;vetne_cleny_palacinky-2-uroven;4;1;0
+237;90;1;5;basic;1;5;Rychlé šípy;;vetne_cleny_rychle_sipy-1-uroven;5;1;5
+238;90;1;5;basic;2;6;Rychlé šípy;;vetne_cleny_rychle_sipy-2-uroven;5;1;5
+239;90;1;5;basic;3;8;Rychlé šípy;;vetne_cleny_rychle_sipy-3-uroven;5;1;5
+240;95;1;5;basic;1;4;;;tvorba_slov_mala_sada-1-uroven;7;1;0
+241;95;1;5;basic;2;6;;;tvorba_slov_mala_sada-2-uroven;7;1;0
+242;95;1;5;basic;3;9;;;tvorba_slov_mala_sada-3-uroven;7;1;0
+243;96;1;5;basic;1;3;;;stavba_vet_mala_sada-1-uroven;8;1;0
+244;97;1;5;basic;2;7;;;stavba_vet_mala_sada-2-uroven;8;1;0
+245;97;1;5;basic;3;10;;;stavba_vet_mala_sada-3-uroven;8;1;0
+246;106;1;5;basic;1;4;;;rozbory-urcovani-slovnich-druhu-ve-vetach-1-uroven;9;1;0
+247;106;1;5;basic;2;5;;;rozbory-urcovani-slovnich-druhu-ve-vetach-2-uroven;9;1;0
+248;106;1;5;basic;3;7;;;rozbory-urcovani-slovnich-druhu-ve-vetach-3-uroven;9;1;0
+249;91;1;5;basic;1;2;;;rozbory-urcovani-samohlasek-a-souhlasek-1-uroven;10;1;0
+250;90;1;5;basic;1;6;Teorie velkého třesku;;vetne_cleny_teorie_velkeho_tresku-1-uroven;11;1;0
+251;90;1;5;basic;2;9;Teorie velkého třesku;;vetne_cleny_teorie_velkeho_tresku-2-uroven;11;1;0
+252;90;1;5;basic;3;10;Teorie velkého třesku;;vetne_cleny_teorie_velkeho_tresku-3-uroven;11;1;0
+253;146;1;6;basic;1;6;Vtipy základní;;vtipy-zakladni;1;1;0
+254;146;1;6;basic;1;8;Vtipy pokročilé;;vtipy-pokrocile;2;1;0
+255;146;1;6;basic;1;10;Vtipy těžké;;vtipy-tezke;3;1;0
+256;146;1;6;basic;1;4;Vtipy lehké;;vtipy-lehke;4;1;0
+257;149;1;7;combined;1;4;;;roboti-vyjmenovana-slova;1;1;0
+258;150;1;7;combined;1;7;;;roboti-psani-i-y-v-ruznych-castech-slova;2;1;0
+259;151;1;7;combined;1;7;;;roboti-velka-piseman-lide-skupiny-organizace;3;1;0
+260;153;1;7;combined;1;5;;;roboti-psani-e;5;1;0
+261;154;1;7;combined;1;8;;;roboti-zdvojene-hlasky;8;1;0
+262;155;1;7;combined;1;5;;;roboti-parove-hlasky;9;1;0
+263;143;1;7;combined;1;6;;;roboti-sklonovani;11;1;0
+264;152;1;7;combined;1;9;;;roboti-velka-pismena-mista;14;1;0
+265;26;1;8;combined;1;3;;;strilecka-vyjmenovana-slova-po-b;1;1;0
+266;27;1;8;combined;1;3;;;strilecka-vyjmenovana-slova-po-l;2;1;0
+267;28;1;8;combined;1;3;;;strilecka-vyjmenovana-slova-po-m;3;1;0
+268;29;1;8;combined;1;3;;;strilecka-vyjmenovana-slova-po-p;4;1;0
+269;30;1;8;combined;1;3;;;strilecka-vyjmenovana-slova-po-s;5;1;0
+270;31;1;8;combined;1;3;;;strilecka-vyjmenovana-slova-po-v;6;1;0
+271;32;1;8;combined;1;3;;;strilecka-vyjmenovana-slova-po-z;7;1;0
+272;36;1;8;combined;1;6;;;strilecka-koncovky-pridavnych-jmen-i-y-jarni-mlady;9;1;0
+273;39;1;8;combined;1;5;;;strilecka-shoda-prisudku-s-podmetem;10;1;0
+274;33;1;8;combined;1;6;;;strilecka-koncovky-podstatnych-jmen-i-y-muzsky-rod;11;1;0
+275;34;1;8;combined;1;6;;;strilecka-koncovky-podstatnych-jmen-i-y-zensky-rod;25;1;0
+276;35;1;8;combined;1;6;;;strilecka-koncovky-podstatnych-jmen-i-y-stredni-rod;26;1;0
+277;37;1;8;combined;1;6;;;strilecka-koncovky-ovi-ovy;28;1;0
+278;149;1;8;combined;1;7;;;strilecka-vyjmenovana-slova-mix;30;1;0
+279;150;1;8;combined;1;6;;;strilecka-koncovky-i-y-mix;31;1;0
+280;71;1;8;combined;1;3;;;strilecka-mekke-a-tvrde-souhlasky;32;1;0
+281;44;1;8;combined;1;8;;;strilecka-psani-nn-n;33;1;0
+282;47;1;8;combined;1;8;;;strilecka-psani-s-z-na-zacatku-slova;34;1;0
+283;109;1;9;basic;1;6;;;tetris-vzory-podstatna-jmena-pan-hrad-muz-stroj-predseda-soudce;1;1;0
+284;110;1;9;basic;1;6;;;tetris-vzory-podstatna-jmena-zena-ruze-pisen-kost;2;1;0
+285;111;1;9;basic;1;6;;;tetris-vzory-podstatna-jmena-mesto-more-kure-staveni;3;1;0
+286;122;1;9;basic;1;8;;;tetris-druhy-cislovky-zakladni-radove-druhove-nasobne;4;1;0
+287;123;1;9;basic;1;8;;;tetris-zajmena-osobni-privlastnovaci-ukazovaci-tazaci-vztazna-neurcita-zaporna;5;1;0
+288;124;1;9;basic;1;8;;;tetris-prislovce-mista-casu-zpusobu-miry-priciny;6;1;0
+289;117;1;9;basic;1;9;;;tetris-slovesa-vzory;7;1;0
+290;108;1;9;basic;1;5;;;tetris-pady;8;1;0
+291;107;1;9;basic;1;5;;;tetris-rody;9;1;0
+292;99;1;9;basic;1;4;;;tetris-slovni-druhy;10;1;0
+293;63;1;11;basic;1;6;;;rozrazovacka-velka-pismena-lide-jmena-1-uroven;2;1;0
+294;63;1;11;basic;2;9;;;rozrazovacka-velka-pismena-lide-jmena-2-uroven;2;1;0
+295;64;1;11;basic;1;4;;;rozrazovacka-velka-pismena-narody-skupiny-osob-1-uroven;3;1;0
+296;64;1;11;basic;2;6;;;rozrazovacka-velka-pismena-narody-skupiny-osob-2-uroven;3;1;0
+297;65;1;11;basic;1;5;;;rozrazovacka-velka-pismena-instituce-organizace-1-uroven;4;1;0
+298;65;1;11;basic;2;9;;;rozrazovacka-velka-pismena-instituce-organizace-2-uroven;4;1;0
+299;66;1;11;basic;1;5;;;rozrazovacka-velka-pismena-dny-obdobi-udalosti-1-uroven;5;1;0
+300;66;1;11;basic;2;8;;;rozrazovacka-velka-pismena-dny-obdobi-udalosti-2-uroven;5;1;0
+301;67;1;11;basic;1;5;;;rozrazovacka-velka-pismena-geografie-priroda-vesmir-1-uroven;6;1;0
+302;67;1;11;basic;2;8;;;rozrazovacka-velka-pismena-geografie-priroda-vesmir-2-uroven;6;1;0
+303;68;1;11;basic;1;5;;;rozrazovacka-velka-pismena-staty-oblasti-1-uroven;7;1;0
+304;68;1;11;basic;2;8;;;rozrazovacka-velka-pismena-staty-oblasti-2-uroven;7;1;0
+305;69;1;11;basic;1;5;;;rozrazovacka-velka-pismena-mesta-casti-mest-ulice-1-uroven;8;1;0
+306;69;1;11;basic;2;9;;;rozrazovacka-velka-pismena-mesta-casti-mest-ulice-2-uroven;8;1;0
+307;70;1;11;basic;1;5;;;rozrazovacka-velka-pismena-budovy-stavby-1-uroven;9;1;0
+308;70;1;11;basic;2;9;;;rozrazovacka-velka-pismena-budovy-stavby-2-uroven;9;1;0
+309;109;1;11;basic;2;6;;;rozrazovacka-vzory-muzskeho-rodu-2-uroven;10;1;0
+310;110;1;11;basic;2;6;;;rozrazovacka-vzory-zenskeho-rodu-2-uroven;11;1;0
+311;111;1;11;basic;2;6;;;rozrazovacka-vzory-stredniho-rodu-2-uroven;12;1;0
+312;107;1;11;basic;2;5;;;rozrazovacka-rody-podstatnych-jmen-2-uroven;13;1;0
+313;106;1;11;basic;1;3;;;rozrazovacka-slovni-druhy-1-uroven;14;1;0
+314;106;1;11;basic;2;4;;;rozrazovacka-slovni-druhy-2-uroven;14;1;0
+315;106;1;11;basic;3;6;;;rozrazovacka-slovni-druhy-3-uroven;14;1;0
+316;122;1;11;basic;2;7;;;rozrazovacka-cislovky-2-uroven;15;1;0
+317;108;1;11;basic;2;4;;;rozrazovacka-pady-podstatnych-jmen-2-uroven;16;1;0
+318;124;1;11;basic;2;8;;;rozrazovacka-prislovce-druhy-2-uroven;17;1;0
+319;117;1;11;basic;2;7;;;rozrazovacka-slovesa-vzory-2-uroven;18;1;0
+320;123;1;11;basic;2;7;;;rozrazovacka-zajmena-druhy-2-uroven;19;1;0
+321;41;1;11;basic;2;5;;;rozrazovacka-psani-mne-me-2-uroven;20;1;0
+322;44;1;11;basic;2;6;;;rozrazovacka-psani-nn-a-n-2-uroven;21;1;0
+323;37;1;11;basic;2;6;;;rozrazovacka-koncovky-ovi-ovy-2-uroven;22;1;0
+324;26;1;11;basic;2;7;Dobýt/dobít, pobýt/pobít, ...;;rozrazovacka-dobyt-pobit-a-spol-2-uroven;23;1;0
+325;31;1;11;basic;2;5;Předpona vy-;;rozrazovacka-predpona-vy-2-uroven;24;1;0
+326;47;1;11;basic;2;6;;;rozrazovacka-psani-s-z-na-zacatku-slova-2-uroven;25;1;0
+327;112;1;11;basic;1;7;;;rozrazovacka-podstatna-jmena-cislo-1-uroven;26;1;0
+328;113;1;11;basic;2;6;;;rozrazovacka-podstatna-jmena-pomnozna-hromadna-latkova-2-uroven;27;1;0
+329;114;1;11;basic;2;4;;;rozrazovacka-slovesa-osoba-2-uroven;28;1;0
+330;121;1;11;basic;2;5;;;rozrazovacka-slovesa-osobni-a-neosobni-2-uroven;29;1;0
+331;115;1;11;basic;2;6;;;rozrazovacka-slovesa-cas-2-uroven;30;1;0
+332;116;1;11;basic;2;9;;;rozrazovacka-slovesa-zpusob-2-uroven;31;1;0
+333;119;1;11;basic;2;9;;;rozrazovacka-slovesa-rod-2-uroven;32;1;0
+334;118;1;11;basic;2;9;;;rozrazovacka-slovesa-vid-2-uroven;33;1;0
+335;120;1;11;basic;2;9;;;rozrazovacka-slovesa-tvary-neurcite-2-uroven;34;1;0
+339;145;1;13;basic;2;8;Zákeřný hrnec;;mluvene-diktaty-zakerny-hrnec-2-uroven;1;1;10
+340;145;1;13;basic;2;7;Podivný zvyk;;mluvene-diktaty-podivny-zvyk-2-uroven;3;1;11
+341;145;1;13;basic;2;6;Co způsobily buchty;;mluvene-diktaty-co-zpusobily-buchty-2-uroven;4;1;12
+342;145;1;13;basic;2;8;Krutovládce;;mluvene-diktaty-krutovladce-2-uroven;5;1;13
+343;145;1;13;basic;1;6;Socha koně;;mluvene-diktaty-socha-kone-1-uroven;6;1;1
+344;145;1;13;basic;1;6;UFO;;mluvene-diktaty-ufo-1-uroven;7;1;2
+345;145;1;13;basic;1;6;Podpatky místo jištění;;mluvene-diktaty-podpatky-misto-jisteni-1-uroven;8;1;3
+346;145;1;13;basic;2;8;Dusno v cukrárně;;mluvene-diktaty-dusno-v-cukrarne-2-uroven;9;1;14
+347;145;1;13;basic;2;9;Kolo;;mluvene-diktaty-kolo-2-uroven;10;1;15
+348;145;1;13;basic;3;10;V základech paneláku;;mluvene-diktaty-v-zakladech-panelaku-3-uroven;11;1;30
+349;145;1;13;basic;3;10;Baletka;;mluvene-diktaty-baletka-3-uroven;12;1;31
+350;158;1;17;basic;2;9;Dopisy, žádosti, pracovní postupy;;korektor-dopisy-zadosti-pracovni-postupy-2-uroven;1;1;0
+351;158;1;17;basic;2;8;Bajka: O křepelce a lasici;;korektor-bajka-o-krepelce-a-lasici-2-uroven;2;1;0
+352;158;1;17;basic;2;9;Bajka: Volba vládce;;korektor-bajka-volba-vladce-2-uroven;3;1;0
+353;158;1;17;basic;2;10;Psaní e-mailu;;korektor-psani-e-mailu-2-uroven;4;1;0
+354;158;1;17;basic;2;10;Bajka: Holubice od Versaceho;;korektor-bajka-holubice-od-versaceho-2-uroven;5;1;0
+355;158;1;17;basic;2;9;Diktáty k přijímačkám na SŠ;;korektor-diktaty-k-prijimackam-na-ss-2-uroven;6;1;0
+356;158;1;17;basic;3;10;Maturitní diktát;;korektor-maturitni-diktaty-2-uroven;7;1;0
+357;158;1;17;basic;2;9;Povídka: Smolař;;korektor-povidka-smolar-2-uroven;8;1;0
+358;158;1;17;basic;2;10;Zprávy z tisku;;korektor-novinove-clanky-2-uroven;9;1;0
+359;149;1;18;combined;1;0;;;uzemicka-vyjmenovana-slova;1;1;0
+360;150;1;18;combined;1;0;;;uzemicka-koncovky-i-y;2;1;0
+361;153;1;18;combined;1;0;;;uzemicka-psani-e;3;1;0
+362;154;1;18;combined;1;0;;;uzemicka-zdvojene-hlasky;4;1;0
+363;155;1;18;combined;1;0;;;uzemicka-parove-hlasky;5;1;0
+364;156;1;18;combined;1;0;;;uzemicka-delka-samohlasek;6;1;0
+365;143;1;18;combined;1;0;;;uzemicka-sklonovani;7;1;0
+366;151;1;18;combined;1;0;;;uzemicka-velka-pismena-lide-skupiny-organizace-cas;9;1;0
+367;152;1;18;combined;1;0;;;uzemicka-velka-pismena-mista;10;1;0
+368;127;1;23;basic;1;3;;;pexeso-antonymum-1-uroven;1;1;0
+369;135;1;23;basic;2;6;;;pexeso-cizi-slova-podstatna-jmena-2-uroven;2;1;0
+370;137;1;23;basic;2;6;;;pexeso-cizi-slova-pridavna-jmena-2-uroven;3;1;0
+371;136;1;23;basic;2;6;;;pexeso-cizi-slova-slovesa-2-uroven;4;1;0
+372;138;1;23;basic;2;10;Literatura 19. stol.;;pexeso-literatura-19-stol-2-uroven;5;0;0
+373;138;1;23;basic;2;10;Literatura ČR, 20. a 21. stol.;;pexeso-literatura-cr-20-21-stol-2-uroven;6;0;0
+374;138;1;23;basic;2;10;Literatura svět, 20. a 21. stol.;;pexeso-literatura-svet-20-21-stol-2-uroven;7;0;0
+375;130;1;23;basic;1;2;;;pexeso-slova-podradna-1-uroven;8;1;0
+376;126;1;23;basic;1;3;;;pexeso-synonymum-1-uroven;9;1;0
+377;25;1;23;basic;1;7;Indicie barvy;;pexeso-indicie-barvy-1-uroven;10;1;0
+378;25;1;23;basic;1;7;Indicie čísla;;pexeso-indicie-cisla-1-uroven;11;1;0
+379;25;1;23;basic;1;5;Indicie ovoce, zelenina;;pexeso-indicie-ovoce-zelenina-1-uroven;12;1;0
+380;25;1;23;basic;1;3;Indicie zvířata;;pexeso-indicie-zvirata-1-uroven;13;1;0
+381;25;1;23;basic;1;7;Jak se správně jmenují?;;pexeso-jak-se-spravne-jmenuji-1-uroven;14;1;0
+382;25;1;23;basic;1;4;Přesmyčky;;pexeso-presmycky-1-uroven;15;1;0
+383;26;1;26;basic;1;3;;B<strong style='color:red'>y</strong>střice|ab<strong style='color:red'>y</strong>|o prázdninách měl vždy přeb<strong style='color:red'>y</strong>tek času;doplnovacka-vyjmenovana-slova-po-b-1-uroven;1;1;0
+384;26;1;26;basic;2;5;;b<strong style='color:red'>i</strong>cí souprava|b<strong style='color:red'>y</strong>tí (existence)|přeb<strong style='color:red'>ý</strong>vat;doplnovacka-vyjmenovana-slova-po-b-2-uroven;1;1;0
+385;26;1;26;basic;3;7;;slušným chování nab<strong style='color:red'>ý</strong>val důvěry|Bab<strong style='color:red'>y</strong>lon|b<strong style='color:red'>i</strong>čík;doplnovacka-vyjmenovana-slova-po-b-3-uroven;1;1;0
+386;27;1;26;basic;1;3;;v pl<strong style='color:red'>y</strong>nárně se upravuje plyn pro topení|pl<strong style='color:red'>y</strong>n|řeka vpl<strong style='color:red'>y</strong>nula do moře;doplnovacka-vyjmenovana-slova-po-l-1-uroven;2;1;0
+387;27;1;26;basic;2;5;;l<strong style='color:red'>i</strong>s na ovoce|pol<strong style='color:red'>y</strong>kač|pl<strong style='color:red'>í</strong>šek;doplnovacka-vyjmenovana-slova-po-l-2-uroven;2;1;0
+388;28;1;26;basic;1;3;;úm<strong style='color:red'>y</strong>slné ublížení|jedovatá zm<strong style='color:red'>i</strong>je|prům<strong style='color:red'>y</strong>slový;doplnovacka-vyjmenovana-slova-po-m-1-uroven;3;1;0
+389;28;1;26;basic;2;5;;měla sm<strong style='color:red'>y</strong>slné rty|medvěd m<strong style='color:red'>ý</strong>val|nerv vstoupil do m<strong style='color:red'>í</strong>chy;doplnovacka-vyjmenovana-slova-po-m-2-uroven;3;1;0
+390;29;1;26;basic;1;3;;nap<strong style='color:red'>í</strong>náček|pop<strong style='color:red'>i</strong>sky|na krku se jí třp<strong style='color:red'>y</strong>til krásný náhrdelník;doplnovacka-vyjmenovana-slova-po-p-1-uroven;4;1;0
+391;29;1;26;basic;2;5;;P<strong style='color:red'>i</strong>lát|p<strong style='color:red'>y</strong>tlačil v lese|olymp<strong style='color:red'>i</strong>jské hry;doplnovacka-vyjmenovana-slova-po-p-2-uroven;4;1;0
+392;30;1;26;basic;1;3;;nás<strong style='color:red'>i</strong>lí|s<strong style='color:red'>í</strong>tnice|Spas<strong style='color:red'>i</strong>tel;doplnovacka-vyjmenovana-slova-po-s-1-uroven;5;1;0
+393;30;1;26;basic;2;5;;s<strong style='color:red'>í</strong>to|ekos<strong style='color:red'>y</strong>stém|s<strong style='color:red'>i</strong>mulace;doplnovacka-vyjmenovana-slova-po-s-2-uroven;5;1;0
+394;31;1;26;basic;1;3;;při rozehrávce v<strong style='color:red'>y</strong>hodil míč vysoko|hlasitě pov<strong style='color:red'>y</strong>koval|v<strong style='color:red'>y</strong>dry jsou dnes chráněné;doplnovacka-vyjmenovana-slova-po-v-1-uroven;6;1;0
+395;31;1;26;basic;2;5;;v<strong style='color:red'>i</strong>tamin C je důležitý pro imunitu|v<strong style='color:red'>i</strong>rtuální realita|v<strong style='color:red'>ý</strong>skat (radostí);doplnovacka-vyjmenovana-slova-po-v-2-uroven;6;1;0
+396;32;1;26;basic;1;3;;Braz<strong style='color:red'>í</strong>lie|z<strong style='color:red'>i</strong>sk|z<strong style='color:red'>í</strong>dka;doplnovacka-vyjmenovana-slova-po-z-1-uroven;7;1;0
+397;32;1;26;basic;2;5;;stále se mu oz<strong style='color:red'>ý</strong>vala bolest ze starého zranění|vz<strong style='color:red'>ý</strong>vat duchy|fyz<strong style='color:red'>i</strong>ka;doplnovacka-vyjmenovana-slova-po-z-2-uroven;7;1;0
+398;33;1;26;basic;1;5;;pozor na úraz<strong style='color:red'>y</strong>|talíř se rozbil na kus<strong style='color:red'>y</strong>|mezi záliv<strong style='color:red'>y</strong>;doplnovacka-koncovky-podstatnych-jmen-muzsky-rod-1-uroven;8;1;0
+399;33;1;26;basic;2;6;;pevné mantinel<strong style='color:red'>y</strong>|odešel k Davidov<strong style='color:red'>i</strong>|vysázel topol<strong style='color:red'>y</strong>;doplnovacka-koncovky-podstatnych-jmen-muzsky-rod-2-uroven;8;1;0
+400;33;1;26;basic;3;7;;zaměstnává filozof<strong style='color:red'>y</strong>|s červ<strong style='color:red'>y</strong> nejsou žerty|Britové válčili s Rus<strong style='color:red'>y</strong>;doplnovacka-koncovky-podstatnych-jmen-muzsky-rod-3-uroven;8;1;0
+401;34;1;26;basic;1;5;;do centra palb<strong style='color:red'>y</strong>|krásné katedrál<strong style='color:red'>y</strong>|za tiché modlitb<strong style='color:red'>y</strong>;doplnovacka-koncovky-podstatnych-jmen-zensky-rod-1-uroven;9;1;0
+402;34;1;26;basic;2;6;;čaj v kovové konv<strong style='color:red'>i</strong>|nad propastm<strong style='color:red'>i</strong>|belhá se o hol<strong style='color:red'>i</strong>;doplnovacka-koncovky-podstatnych-jmen-zensky-rod-2-uroven;9;1;0
+403;34;1;26;basic;3;7;;vlak do Čáslav<strong style='color:red'>i</strong>|autobus z Příbram<strong style='color:red'>i</strong>|ve Staré Boleslav<strong style='color:red'>i</strong>;doplnovacka-koncovky-podstatnych-jmen-zensky-rod-3-uroven;9;1;0
+404;35;1;26;basic;1;5;;ponděl<strong style='color:red'>í</strong>|sporné územ<strong style='color:red'>í</strong>|láhev se dvěma hrdl<strong style='color:red'>y</strong>;doplnovacka-koncovky-podstatnych-jmen-stredni-rod-1-uroven;10;1;0
+405;35;1;26;basic;2;6;;neničit podhoub<strong style='color:red'>í</strong>|mezi dvěma pekl<strong style='color:red'>y</strong>|polámané větvov<strong style='color:red'>í</strong>;doplnovacka-koncovky-podstatnych-jmen-stredni-rod-2-uroven;10;1;0
+406;36;1;26;basic;1;5;;ciz<strong style='color:red'>í</strong> člověk|křiv<strong style='color:red'>ý</strong> člověk|v tmav<strong style='color:red'>ý</strong>ch hvozdech;doplnovacka-koncovky-pridavnych-jmen-1-uroven;11;1;0
+407;36;1;26;basic;2;5;;hověz<strong style='color:red'>í</strong> kližky|vrb<strong style='color:red'>í</strong> mlčení|rychlý sokol<strong style='color:red'>í</strong> let;doplnovacka-koncovky-pridavnych-jmen-2-uroven;11;1;0
+408;37;1;26;basic;2;6;;dodržovat lékařov<strong style='color:red'>y</strong> pokyny|Hurvínkov<strong style='color:red'>y</strong> trampoty s taťuldou|spisovatelov<strong style='color:red'>y</strong> novely;doplnovacka-koncovky-ovi-ovy-2-uroven;12;1;0
+409;38;1;26;basic;2;6;;boj s nemocem<strong style='color:red'>i</strong>|židle s noham<strong style='color:red'>i</strong>|Udělal to vlastním<strong style='color:red'>a</strong> rukama.;doplnovacka-koncovky-mi-my-ma-2-uroven;13;1;0
+410;39;1;26;basic;1;3;;Muži se pustil<strong style='color:red'>i</strong> do výroby kanoe.|Krtci lovil<strong style='color:red'>i</strong> žížaly.|Dny plynul<strong style='color:red'>y</strong> jeden za druhým.;doplnovacka-shoda-podmetu-s-prisudkem-1-uroven;14;1;0
+411;39;1;26;basic;2;5;;Průvodkyně se nám zalíb<strong style='color:red'>i</strong>la.|Krásné výhledy nás ohromil<strong style='color:red'>y</strong>.|Lidé na tyto pobídky reagoval<strong style='color:red'>i</strong> překvapivě dobře.;doplnovacka-shoda-podmetu-s-prisudkem-2-uroven;14;1;0
+412;39;1;26;basic;3;7;;Koncepty byl<strong style='color:red'>y</strong> špatné.|Okolnosti i lidé se změnil<strong style='color:red'>i</strong>.|Ukazatelé stál<strong style='color:red'>i</strong> u cesty.;doplnovacka-shoda-podmetu-s-prisudkem-3-uroven;14;1;0
+413;40;1;26;basic;2;5;;přesná dom<strong style='color:red'>ně</strong>nka|přem<strong style='color:red'>ě</strong>nit se|počínal si cílevědom<strong style='color:red'>ě</strong>;doplnovacka-psani-me-mne-ve-slove-2-uroven;15;1;0
+414;40;1;26;basic;3;7;;bavili jsme se ohrom<strong style='color:red'>ně</strong>|územ<strong style='color:red'>ně</strong> analytické podklady|uzem<strong style='color:red'>ně</strong>ní;doplnovacka-psani-me-mne-ve-slove-3-uroven;15;1;0
+415;41;1;26;basic;2;6;;Podej m<strong style='color:red'>ně</strong> sůl.|nevšiml si m<strong style='color:red'>ě</strong>|M<strong style='color:red'>ně</strong> je to jedno.;doplnovacka-me-mne-samostatne-zajmeno-ja-2-uroven;16;1;0
+416;42;1;26;basic;1;4;;ob<strong style='color:red'>je</strong>ktiv fotoaparátu|b<strong style='color:red'>ě</strong>snit|ob<strong style='color:red'>ě</strong>ti války;doplnovacka-psani-be-bje-1-uroven;17;1;0
+417;43;1;26;basic;1;4;;na ostrov<strong style='color:red'>ě</strong>|zvukové v<strong style='color:red'>je</strong>my|zv<strong style='color:red'>ě</strong>davá sousedka;doplnovacka-psani-ve-vje-1-uroven;18;1;0
+418;44;1;26;basic;1;6;;slu<strong style='color:red'>nn</strong>á dovolená|úči<strong style='color:red'>nn</strong>á pomoc|bezce<strong style='color:red'>nn</strong>ý dárek;doplnovacka-psani-nn-a-n-1-uroven;19;1;0
+419;44;1;26;basic;2;7;;ruti<strong style='color:red'>nn</strong>í zaměstnání|stehe<strong style='color:red'>nn</strong>í kost|pohosti<strong style='color:red'>nn</strong>é ubytování;doplnovacka-psani-nn-a-n-2-uroven;19;1;0
+420;44;1;26;basic;3;8;;červe<strong style='color:red'>n</strong>ý plot|nezaměstna<strong style='color:red'>n</strong>ost|mikrovl<strong style='color:red'>nn</strong>á trouba;doplnovacka-psani-nn-a-n-3-uroven;19;1;0
+421;45;1;26;basic;2;7;;nejti<strong style='color:red'>šš</strong>í člověk|ne<strong style='color:red'>j</strong>aromatičtější olej|be<strong style='color:red'>zz</strong>emek;doplnovacka-dalsi-zdvojene-souhlasky-dd-zz-kk-cc-jj-2-uroven;20;1;0
+422;46;1;26;basic;2;8;;množství ša<strong style='color:red'>ts</strong>tva|vě<strong style='color:red'>tš</strong>ina případů|ro<strong style='color:red'>zs</strong>ypat mouku;doplnovacka-jedno-versus-dve-pismena-c-ts-s-zs-2-uroven;21;1;0
+423;47;1;26;basic;1;4;;<strong style='color:red'>z</strong>ranění|<strong style='color:red'>z</strong>dvořilost|<strong style='color:red'>z</strong>organizovat;doplnovacka-psani-s-z-na-zacatku-slova-1-uroven;22;1;0
+424;47;1;26;basic;2;7;;<strong style='color:red'>z</strong>krátit|<strong style='color:red'>s</strong>ponzorovat|pěvecký <strong style='color:red'>s</strong>bor;doplnovacka-psani-s-z-na-zacatku-slova-2-uroven;22;1;0
+425;47;1;26;basic;3;10;;<strong style='color:red'>z</strong>tlumit|<strong style='color:red'>s</strong>kácet se|<strong style='color:red'>z</strong>bourat;doplnovacka-psani-s-z-na-zacatku-slova-3-uroven;22;1;0
+426;48;1;26;basic;1;4;;odcházet <strong style='color:red'>s</strong> nepořízenou|buchty <strong style='color:red'>s</strong> tvarohem|<strong style='color:red'>ze</strong> strany na stranu;doplnovacka-predlozky-s-z-1-uroven;23;1;0
+427;49;1;26;basic;1;3;;Našel na mezi chudo<strong style='color:red'>b</strong>ku.|To sem neple<strong style='color:red'>ť</strong>.|nákla<strong style='color:red'>d</strong>;doplnovacka-souhlasky-parove-p-b-t-d-1-uroven;24;1;0
+428;49;1;26;basic;2;4;;bronzové slou<strong style='color:red'>p</strong>ky|modli<strong style='color:red'>t</strong>ba|černý rybí<strong style='color:red'>z</strong>;doplnovacka-souhlasky-parove-p-b-t-d-2-uroven;24;1;0
+429;49;1;26;basic;3;6;;lít lí<strong style='color:red'>h</strong> na ránu|je to leno<strong style='color:red'>ch</strong>|sle<strong style='color:red'>t</strong> čarodějnic;doplnovacka-souhlasky-parove-p-b-t-d-3-uroven;24;1;0
+430;50;1;26;basic;2;5;;hlub<strong style='color:red'>š</strong>í|Poskakoval křep<strong style='color:red'>č</strong>eji|vypadal nejměk<strong style='color:red'>č</strong>eji;doplnovacka-psani-s-c-s-z-2-uroven;25;1;0
+431;51;1;26;basic;1;2;;nechce v<strong style='color:red'>ů</strong>bec jíst|dr<strong style='color:red'>ů</strong>bež|<strong style='color:red'>ú</strong>trata;doplnovacka-delka-samohlasek-u-1-uroven;26;1;0
+432;51;1;26;basic;2;4;;ne<strong style='color:red'>ú</strong>myslný|ne<strong style='color:red'>ú</strong>činná opatření|bez<strong style='color:red'>ú</strong>čelná práce;doplnovacka-delka-samohlasek-u-2-uroven;26;1;0
+433;52;1;26;basic;3;9;;v<strong style='color:red'>ý</strong>jimečná chvíle|peč<strong style='color:red'>i</strong>cí papír|škol<strong style='color:red'>i</strong>cí středisko;doplnovacka-delka-samohlasek-i-3-uroven;27;1;0
+434;53;1;26;basic;2;9;;emul<strong style='color:red'>z</strong>e|peroxi<strong style='color:red'>d</strong>|re<strong style='color:red'>z</strong>ignace;doplnovacka-prejata-slova-souhlasky-2-uroven;28;1;0
+435;53;1;26;basic;3;10;;de<strong style='color:red'>z</strong>integrace|na Mar<strong style='color:red'>s</strong>u|standar<strong style='color:red'>d</strong>ní;doplnovacka-prejata-slova-souhlasky-3-uroven;28;1;0
+436;54;1;26;basic;2;9;;discipl<strong style='color:red'>í</strong>na|synt<strong style='color:red'>é</strong>za|d<strong style='color:red'>i</strong>spozice;doplnovacka-prejata-slova-samohlasky-2-uroven;29;1;0
+437;54;1;26;basic;3;10;;abb<strong style='color:red'>é</strong>|intr<strong style='color:red'>a</strong>venózní podání léku|gramof<strong style='color:red'>o</strong>n;doplnovacka-prejata-slova-samohlasky-3-uroven;29;1;0
+438;55;1;26;basic;3;8;;rostlina, je<strong style='color:red'>ž</strong> měla květy|Jí j<strong style='color:red'>í</strong> ovoce.|Nejsem člověk, je<strong style='color:red'>nž</strong> z boje utíká.;doplnovacka-sklonovani-zajmen-jez-jenz-nimz-ji-3-uroven;30;1;0
+439;56;1;26;basic;2;8;;Přivedl naš<strong style='color:red'>i</strong> kamarádku.|nejčast<strong style='color:red'>ějš</strong>í volba|draž<strong style='color:red'>š</strong>í víno;doplnovacka-sklonovani-pridavnych-jmen-2-uroven;31;1;0
+440;57;1;26;basic;2;8;;nechal studi<strong style='color:red'>a</strong>|list z fík<strong style='color:red'>usu</strong>|vyzná se v aut<strong style='color:red'>ech</strong>;doplnovacka-sklonovani-podstatnych-jmen-2-uroven;32;1;0
+441;57;1;26;basic;3;10;;účastní se sympozi<strong style='color:red'>a</strong>|za dob Juli<strong style='color:red'>a</strong> Caesara|v energetickém kontinu<strong style='color:red'>u</strong>;doplnovacka-sklonovani-podstatnych-jmen-3-uroven;32;1;0
+442;58;1;26;basic;2;7;;přenocovali by<strong style='color:red'>chom</strong>|ovládl <strong style='color:red'>ses</strong>|přál <strong style='color:red'>sis</strong> to;doplnovacka-slovesa-podminovaci-zvratna-2-uroven;33;1;0
+443;59;1;26;basic;2;9;;Chtěl bych psa, <strong style='color:red'>např.</strong> dobrmana.|navštívit Ústí <strong style='color:red'>n. L.</strong>|Viděli v pavilonu lvy, tygry <strong style='color:red'>atd.</strong>;doplnovacka-zkratky-2-uroven;34;1;0
+444;59;1;26;basic;3;10;;<strong style='color:red'>Mgr. et Mgr.</strong> Jan Dohnal|Bělá <strong style='color:red'>p.</strong> Pradědem|viz <strong style='color:red'>s. 6</strong>;doplnovacka-zkratky-3-uroven;34;1;0
+445;60;1;26;basic;3;10;;Sejdeme se <strong style='color:red'>po 5.</strong> hodině.|pracovat na <strong style='color:red'>100 %</strong>|<strong style='color:red'>100km</strong> rychlost;doplnovacka-cislovky-a-mezery-3-uroven;35;1;0
+446;61;1;26;basic;2;9;;Teď leží, protože <strong style='color:red'>předtím</strong> dlouho pracoval.|Oběd chutnal <strong style='color:red'>dokonce</strong> i Tomášovi.|<strong style='color:red'>napůl</strong> Číňan;doplnovacka-sprezky-2-uroven;36;1;0
+447;61;1;26;basic;3;10;;zmizet <strong style='color:red'>po anglicku</strong>|nechat něco <strong style='color:red'>najindy</strong>|Dělalo se mu <strong style='color:red'>nanic</strong>;doplnovacka-sprezky-3-uroven;36;1;0
+448;63;1;26;basic;1;4;;<strong style='color:red'>M</strong>ozart|Mikuláš Dačický z <strong style='color:red'>H</strong>eslova|<strong style='color:red'>v</strong>odník;doplnovacka-velka-pismena-lide-jmena-1-uroven;38;1;0
+449;63;1;26;basic;2;7;;<strong style='color:red'>b</strong>ásník Pablo Neruda|Řehoř <strong style='color:red'>H</strong>rubý z Jelení|<strong style='color:red'>n</strong>áčelník;doplnovacka-velka-pismena-lide-jmena-2-uroven;38;1;0
+450;63;1;26;basic;3;10;;<strong style='color:red'>I</strong>ng. Balcar|Ivan „<strong style='color:red'>M</strong>agor“ Jirous|Mohu vám posloužit, Vaše <strong style='color:red'>V</strong>eličenstvo?;doplnovacka-velka-pismena-lide-jmena-3-uroven;38;1;0
+451;64;1;26;basic;2;8;;rytíři z <strong style='color:red'>B</strong>laníku|<strong style='color:red'>b</strong>ruslař|<strong style='color:red'>B</strong>rit;doplnovacka-velka-pismena-narody-skupiny-osob-2-uroven;39;1;0
+452;64;1;26;basic;3;10;;<strong style='color:red'>v</strong>ídeňský Čech|<strong style='color:red'>D</strong>uch svatý|<strong style='color:red'>A</strong>froameričan;doplnovacka-velka-pismena-narody-skupiny-osob-3-uroven;39;1;0
+453;65;1;26;basic;3;10;;<strong style='color:red'>f</strong>rancouzské velvyslanectví|<strong style='color:red'>k</strong>oupaliště Džbán|jít do <strong style='color:red'>d</strong>ivadla;doplnovacka-velka-pismena-instituce-organizace-3-uroven;40;1;0
+454;66;1;26;basic;2;8;;<strong style='color:red'>p</strong>odzim|<strong style='color:red'>č</strong>tvrtek|o <strong style='color:red'>m</strong>asopustu;doplnovacka-velka-pismena-dny-obdobi-udalosti-2-uroven;41;1;0
+455;66;1;26;basic;3;10;;<strong style='color:red'>K</strong>větnová revoluce|<strong style='color:red'>b</strong>abí léto|<strong style='color:red'>n</strong>apoleonské války;doplnovacka-velka-pismena-dny-obdobi-udalosti-3-uroven;41;1;0
+456;67;1;26;basic;2;8;;<strong style='color:red'>J</strong>upiter|<strong style='color:red'>p</strong>ohoří Krkonoše|souhvězdí <strong style='color:red'>P</strong>ersea;doplnovacka-velka-pismena-geografie-priroda-vesmir-2-uroven;42;1;0
+457;67;1;26;basic;3;10;;V <strong style='color:red'>P</strong>odyjí najdeme nejmenší národní park.|<strong style='color:red'>M</strong>léčná dráha|Severní <strong style='color:red'>l</strong>edový oceán;doplnovacka-velka-pismena-geografie-priroda-vesmir-3-uroven;42;1;0
+458;68;1;26;basic;2;8;;Velká <strong style='color:red'>B</strong>ritánie|v <strong style='color:red'>Č</strong>echách|hranice <strong style='color:red'>F</strong>rancie;doplnovacka-velka-pismena-staty-oblasti-2-uroven;43;1;0
+459;68;1;26;basic;3;10;;na území <strong style='color:red'>v</strong>aldštejnského panství|rázovitý <strong style='color:red'>s</strong>lezský lid|Přílivová vlna se žene na celé <strong style='color:red'>d</strong>olní Povltaví.;doplnovacka-velka-pismena-staty-oblasti-3-uroven;43;1;0
+460;69;1;26;basic;1;5;;Tylova <strong style='color:red'>č</strong>tvrť|Freiburg im <strong style='color:red'>B</strong>reisgau|Bystřice <strong style='color:red'>p</strong>od Hostýnem;doplnovacka-velka-pismena-mesta-casti-mest-ulice-1-uroven;44;1;0
+461;69;1;26;basic;2;8;;náměstí Organizace <strong style='color:red'>s</strong>pojených národů|náměstí Pod <strong style='color:red'>K</strong>aštany|zkušený <strong style='color:red'>p</strong>ařížský potápěč;doplnovacka-velka-pismena-mesta-casti-mest-ulice-2-uroven;44;1;0
+462;69;1;26;basic;3;10;;<strong style='color:red'>s</strong>ady Pětatřicátníků|ulice Jánský <strong style='color:red'>v</strong>ršek|ulice U Nového <strong style='color:red'>S</strong>uchdola;doplnovacka-velka-pismena-mesta-casti-mest-ulice-3-uroven;44;1;0
+463;70;1;26;basic;1;5;;kaple <strong style='color:red'>s</strong>v. Kříže|<strong style='color:red'>r</strong>otunda Máří Magdaleny|palác <strong style='color:red'>K</strong>oruna;doplnovacka-velka-pismena-budovy-stavby-1-uroven;45;1;0
+464;70;1;26;basic;2;8;;<strong style='color:red'>k</strong>aple sv. Anežky|dům <strong style='color:red'>U</strong> Dvou slunců|dům U <strong style='color:red'>M</strong>inuty;doplnovacka-velka-pismena-budovy-stavby-2-uroven;45;1;0
+465;70;1;26;basic;3;10;;bazilika Nanebevzetí Panny Marie <strong style='color:red'>S</strong>vatoborské|stanice metra <strong style='color:red'>H</strong>lavní nádraží|<strong style='color:red'>S</strong>vatovítský chrám;doplnovacka-velka-pismena-budovy-stavby-3-uroven;45;1;0
+466;71;1;26;basic;1;2;;poh<strong style='color:red'>y</strong>bem ku zdraví|úter<strong style='color:red'>ý</strong>|květ<strong style='color:red'>i</strong>na;doplnovacka-tvrde-a-mekke-souhlasky-1-uroven;47;1;0
+467;149;1;16;combined;1;0;;;priserky-vyjmenovana-slova;0;1;0
+468;150;1;16;combined;1;0;;;priserky-koncovky;0;1;0
+469;153;1;16;combined;1;0;;;priserky-psani-e;0;1;0
+470;154;1;16;combined;1;0;priserky-zdvojene-hlasky;;priserky-zdvojene-hlasky;0;1;0
+471;155;1;16;combined;1;0;;;priserky-parove-hlasky;0;1;0
+472;143;1;16;combined;1;0;;;priserky-sklonovani-a-casovani;0;1;0
+473;151;1;16;combined;1;0;;;priserky-velka-pismena-lide-skupiny-organizace;0;1;0
+474;152;1;16;combined;1;0;;;priserky-velka-pismena-mista;0;1;0
+475;149;1;10;combined;1;5;;;zavody-vyjmenovana-slova;0;1;0
+476;150;1;10;combined;1;6;;;zavody-koncovky-i-y;0;1;0
+477;153;1;10;combined;1;6;;;zavody-psani-e;0;1;0
+478;154;1;10;combined;1;8;;;zavody-zdvojene-hlasky;0;1;0
+479;155;1;10;combined;1;4;;;zavody-parove-hlasky;0;1;0
+480;143;1;10;combined;1;7;;;zavody-sklonovani;0;1;0
+481;151;1;10;combined;1;10;;;zavody-velka-pismena-lide-skupiny-organizace;0;1;0
+482;152;1;10;combined;1;10;;;zavody-velka-pismena-mista;0;1;0
+483;157;1;18;combined;1;0;;;uzemicka-prejata-slova;0;1;0
+487;126;1;19;basic;1;3;;;nove-otazky-synonyma;0;1;0
+488;127;1;19;basic;1;3;;;nove-otazky-antonyma;0;1;0
+489;128;1;19;basic;1;5;;;nove-otazky-homonyma;0;1;0
+490;135;1;19;basic;2;8;;;nove-otazky-vyznamy-cizich-slov-podstatna-jmena;0;1;0
+491;137;1;19;basic;2;8;;;nove-otazky-vyznamy-cizich-slov-pridavna-jmena;0;1;0
+492;136;1;19;basic;2;8;;;nove-otazky-vyznamy-cizich-slov-slovesa;0;1;0
+493;129;1;19;basic;1;3;;;nove-otazky-slova-souradna;0;1;0
+494;130;1;19;basic;1;3;;;nove-otazky-slova-podrazena;0;1;0
+495;23;1;19;basic;2;0;;;nove-otazky-cizi-slova;0;1;0
+496;133;1;19;basic;2;9;;;nove-otazky-slova-archaicka-a-knizni;0;1;0
+497;134;1;19;basic;2;10;;;nove-otazky-hantec;0;1;0
+498;128;1;23;basic;2;4;;;pexeso-homonyma;0;1;0
+499;129;1;23;basic;2;3;;;pexeso-slova-souradna;0;1;0
+500;133;1;23;basic;2;9;;;pexeso-slova-archaicka-a-knizni;0;1;0
+501;134;1;23;basic;2;10;;;pexeso-hantec;0;1;0
+502;23;1;23;basic;2;0;;;pexeso-cizi-slova;0;1;0
+503;99;1;5;basic;1;4;Pán prstenů;;rozbory-pan-prstenu-urcovani-slovnich-druhu-uroven-1;0;1;0
+504;99;1;5;basic;2;5;Pán prstenů;;rozbory-pan-prstenu-urcovani-slovnich-druhu-uroven-2;0;1;0
+505;99;1;5;basic;3;7;Pán prstenů;;rozbory-pan-prstenu-urcovani-slovnich-druhu-uroven-3;0;1;0
+506;158;1;17;basic;1;6;Psaní e-mailu;;korektor-psani-e-mailu-1-uroven;0;1;0
+507;158;1;17;basic;3;10;Zprávy z tisku;;korektor-novinove-clanky-3-uroven;0;1;0
+508;158;1;17;basic;1;0;Zprávy z tisku;;korektor-novinove-clanky-1-uroven;0;1;0
+509;158;1;17;basic;1;0;Píšeme si na chatu;;korektor-piseme-na-chatu-uroven-1;0;1;0
+510;158;1;17;basic;2;0;Píšeme si na chatu;;korektor-piseme-na-chatu-uroven-2;0;1;0
+511;132;1;26;basic;2;7;Spisovné x nespisovné;naběračka|být v obraze|bez třech zubů;nova-doplnovacka-spisovne-nespisovne;0;0;0
+512;149;1;26;combined;1;3;;;doplnovacka-vyjmenovana-slova-mix-1-uroven;0;1;0
+513;149;1;26;combined;2;5;;;doplnovacka-vyjmenovana-slova-mix-2-uroven;0;1;0
+514;26;1;12;combined;1;3;;;tymovka-vyjmenovana-slova-po-b-1-uroven;0;1;0
+515;26;1;12;combined;2;5;;;tymovka-vyjmenovana-slova-po-b-2-uroven;0;1;0
+516;26;1;12;combined;3;7;;;tymovka-vyjmenovana-slova-po-b-3-uroven;0;1;0
+517;27;1;12;combined;1;3;;;tymovka-vyjmenovana-slova-po-l-1-uroven;0;1;0
+518;27;1;12;combined;2;5;;;tymovka-vyjmenovana-slova-po-l-2-uroven;0;1;0
+519;28;1;12;combined;1;3;;;tymovka-vyjmenovana-slova-po-m-1-uroven;0;1;0
+520;28;1;12;combined;2;5;;;tymovka-vyjmenovana-slova-po-m-2-uroven;0;1;0
+521;29;1;12;combined;1;3;;;tymovka-vyjmenovana-slova-po-p-1-uroven;0;1;0
+522;29;1;12;combined;2;5;;;tymovka-vyjmenovana-slova-po-p-2-uroven;0;1;0
+523;30;1;12;combined;1;3;;;tymovka-vyjmenovana-slova-po-s-1-uroven;0;1;0
+524;30;1;12;combined;2;5;;;tymovka-vyjmenovana-slova-po-s-2-uroven;0;1;0
+525;31;1;12;combined;1;3;;;tymovka-vyjmenovana-slova-po-v-1-uroven;0;1;0
+526;31;1;12;combined;2;5;;;tymovka-vyjmenovana-slova-po-v-2-uroven;0;1;0
+527;32;1;12;combined;1;3;;;tymovka-vyjmenovana-slova-po-z-1-uroven;0;1;0
+528;32;1;12;combined;2;5;;;tymovka-vyjmenovana-slova-po-z-2-uroven;0;1;0
+529;33;1;12;combined;1;5;;;tymovka-koncovky-podstatnych-jmen-muzsky-rod-1-uroven;0;1;0
+530;33;1;12;combined;2;6;;;tymovka-koncovky-podstatnych-jmen-muzsky-rod-2-uroven;0;1;0
+531;33;1;12;combined;3;7;;;tymovka-koncovky-podstatnych-jmen-muzsky-rod-3-uroven;0;1;0
+532;34;1;12;combined;1;5;;;tymovka-koncovky-podstatnych-jmen-zensky-rod-1-uroven;0;1;0
+533;34;1;12;combined;2;6;;;tymovka-koncovky-podstatnych-jmen-zensky-rod-2-uroven;0;1;0
+534;34;1;12;combined;3;7;;;tymovka-koncovky-podstatnych-jmen-zensky-rod-3-uroven;0;1;0
+535;35;1;12;combined;1;5;;;tymovka-koncovky-podstatnych-jmen-stredni-rod-1-uroven;0;1;0
+536;35;1;12;combined;2;6;;;tymovka-koncovky-podstatnych-jmen-stredni-rod-2-uroven;0;1;0
+537;36;1;12;combined;1;5;;;tymovka-koncovky-pridavnych-jmen-1-uroven;0;1;0
+538;36;1;12;combined;2;5;;;tymovka-koncovky-pridavnych-jmen-2-uroven;0;1;0
+539;37;1;12;combined;2;6;;;tymovka-koncovky-ovi-ovy-2-uroven;0;1;0
+540;38;1;12;combined;2;6;;;tymovka-koncovky-mi-my-ma-2-uroven;0;1;0
+541;39;1;12;combined;1;3;;;tymovka-shoda-podmetu-s-prisudkem-1-uroven;0;1;0
+542;39;1;12;combined;2;5;;;tymovka-shoda-podmetu-s-prisudkem-2-uroven;0;1;0
+543;39;1;12;combined;3;7;;;tymovka-shoda-podmetu-s-prisudkem-3-uroven;0;1;0
+544;40;1;12;combined;2;5;;;tymovka-psani-me-mne-ve-slove-2-uroven;0;1;0
+545;40;1;12;combined;3;7;;;tymovka-psani-me-mne-ve-slove-3-uroven;0;1;0
+546;41;1;12;combined;2;6;;;tymovka-me-mne-samostatne-zajmeno-ja-2-uroven;0;1;0
+547;42;1;12;combined;1;4;;;tymovka-psani-be-bje-1-uroven;0;1;0
+548;43;1;12;combined;1;4;;;tymovka-psani-ve-vje-1-uroven;0;1;0
+549;44;1;12;combined;1;6;;;tymovka-psani-nn-a-n-1-uroven;0;1;0
+550;44;1;12;combined;2;7;;;tymovka-psani-nn-a-n-2-uroven;0;1;0
+551;44;1;12;combined;3;8;;;tymovka-psani-nn-a-n-3-uroven;0;1;0
+552;45;1;12;combined;2;7;;;tymovka-dalsi-zdvojene-souhlasky-dd-zz-kk-cc-jj-2-uroven;0;1;0
+553;46;1;12;combined;2;8;;;tymovka-jedno-versus-dve-pismena-c-ts-s-zs-2-uroven;0;1;0
+554;47;1;12;combined;1;4;;;tymovka-psani-s-z-na-zacatku-slova-1-uroven;0;1;0
+555;47;1;12;combined;2;7;;;tymovka-psani-s-z-na-zacatku-slova-2-uroven;0;1;0
+556;47;1;12;combined;3;10;;;tymovka-psani-s-z-na-zacatku-slova-3-uroven;0;1;0
+557;48;1;12;combined;1;4;;;tymovka-predlozky-s-z-1-uroven;0;1;0
+558;49;1;12;combined;1;3;;;tymovka-souhlasky-parove-p-b-t-d-1-uroven;0;1;0
+559;49;1;12;combined;2;4;;;tymovka-souhlasky-parove-p-b-t-d-2-uroven;0;1;0
+560;49;1;12;combined;3;6;;;tymovka-souhlasky-parove-p-b-t-d-3-uroven;0;1;0
+561;50;1;12;combined;2;5;;;tymovka-psani-s-c-s-z-2-uroven;0;1;0
+562;51;1;12;combined;1;2;;;tymovka-delka-samohlasek-u-1-uroven;0;1;0
+563;51;1;12;combined;2;4;;;tymovka-delka-samohlasek-u-2-uroven;0;1;0
+564;52;1;12;combined;3;9;;;tymovka-delka-samohlasek-i-3-uroven;0;1;0
+565;53;1;12;combined;2;9;;;tymovka-prejata-slova-souhlasky-2-uroven;0;1;0
+566;53;1;12;combined;3;10;;;tymovka-prejata-slova-souhlasky-3-uroven;0;1;0
+567;54;1;12;combined;2;9;;;tymovka-prejata-slova-samohlasky-2-uroven;0;1;0
+568;54;1;12;combined;3;10;;;tymovka-prejata-slova-samohlasky-3-uroven;0;1;0
+569;55;1;12;combined;3;8;;;tymovka-sklonovani-zajmen-jez-jenz-nimz-ji-3-uroven;0;1;0
+570;56;1;12;combined;2;8;;;tymovka-sklonovani-pridavnych-jmen-2-uroven;0;1;0
+571;57;1;12;combined;2;8;;;tymovka-sklonovani-podstatnych-jmen-2-uroven;0;1;0
+572;57;1;12;combined;3;10;;;tymovka-sklonovani-podstatnych-jmen-3-uroven;0;1;0
+573;58;1;12;combined;2;7;;;tymovka-slovesa-podminovaci-zvratna-2-uroven;0;1;0
+574;59;1;12;combined;2;9;;;tymovka-zkratky-2-uroven;0;1;0
+575;59;1;12;combined;3;10;;;tymovka-zkratky-3-uroven;0;1;0
+576;60;1;12;combined;3;10;;;tymovka-cislovky-a-mezery-3-uroven;0;1;0
+577;61;1;12;combined;2;9;;;tymovka-sprezky-2-uroven;0;1;0
+578;61;1;12;combined;3;10;;;tymovka-sprezky-3-uroven;0;1;0
+579;63;1;12;combined;1;4;;;tymovka-velka-pismena-lide-jmena-1-uroven;0;1;0
+580;63;1;12;combined;2;7;;;tymovka-velka-pismena-lide-jmena-2-uroven;0;1;0
+581;63;1;12;combined;3;10;;;tymovka-velka-pismena-lide-jmena-3-uroven;0;1;0
+582;64;1;12;combined;2;8;;;tymovka-velka-pismena-narody-skupiny-osob-2-uroven;0;1;0
+583;64;1;12;combined;3;10;;;tymovka-velka-pismena-narody-skupiny-osob-3-uroven;0;1;0
+584;65;1;12;combined;3;10;;;tymovka-velka-pismena-instituce-organizace-3-uroven;0;1;0
+585;66;1;12;combined;2;8;;;tymovka-velka-pismena-dny-obdobi-udalosti-2-uroven;0;1;0
+586;66;1;12;combined;3;10;;;tymovka-velka-pismena-dny-obdobi-udalosti-3-uroven;0;1;0
+587;67;1;12;combined;2;8;;;tymovka-velka-pismena-geografie-priroda-vesmir-2-uroven;0;1;0
+588;67;1;12;combined;3;10;;;tymovka-velka-pismena-geografie-priroda-vesmir-3-uroven;0;1;0
+589;68;1;12;combined;2;8;;;tymovka-velka-pismena-staty-oblasti-2-uroven;0;1;0
+590;68;1;12;combined;3;10;;;tymovka-velka-pismena-staty-oblasti-3-uroven;0;1;0
+591;69;1;12;combined;1;5;;;tymovka-velka-pismena-mesta-casti-mest-ulice-1-uroven;0;1;0
+592;69;1;12;combined;2;8;;;tymovka-velka-pismena-mesta-casti-mest-ulice-2-uroven;0;1;0
+593;69;1;12;combined;3;10;;;tymovka-velka-pismena-mesta-casti-mest-ulice-3-uroven;0;1;0
+594;70;1;12;combined;1;5;;;tymovka-velka-pismena-budovy-stavby-1-uroven;0;1;0
+595;70;1;12;combined;2;8;;;tymovka-velka-pismena-budovy-stavby-2-uroven;0;1;0
+596;70;1;12;combined;3;10;;;tymovka-velka-pismena-budovy-stavby-3-uroven;0;1;0
+597;71;1;12;combined;1;2;;;tymovka-tvrde-a-mekke-souhlasky-1-uroven;0;1;0
+598;132;1;12;combined;2;7;Spisovné x nespisovné;;nova-tymovka-spisovne-nespisovne;0;1;0
+599;149;1;12;combined;1;3;;;tymovka-vyjmenovana-slova-mix-1-uroven;0;1;0
+600;149;1;12;combined;2;5;;;tymovka-vyjmenovana-slova-mix-2-uroven;0;1;0
+601;150;1;26;combined;1;6;Koncovky podstatných jmen: mix;;doplnovacka-koncovky-podstatnych-jmen-1-uroven;0;1;0
+602;150;1;26;combined;2;7;Koncovky podstatných jmen: mix;;doplnovacka-koncovky-podstatnych-jmen-2-uroven;0;1;0
+603;150;1;26;combined;3;7;Koncovky podstatných jmen: mix;;doplnovacka-koncovky-podstatnych-jmen-2-urove3;0;1;0
+604;153;1;26;combined;2;7;;;doplnovacka-psani-e-mix-2-uroven;0;1;0
+605;154;1;26;combined;2;8;;;doplnovacka-zdvojene-hlasky-mix-2-uroven;0;1;0
+606;155;1;26;combined;1;4;;;doplnovacka-parove-hlasky-mix-1-uroven;0;1;0
+607;155;1;26;combined;2;7;;;doplnovacka-parove-hlasky-mix-2-uroven;0;1;0
+608;155;1;26;combined;3;10;;;doplnovacka-parove-hlasky-mix-3-uroven;0;1;0
+609;143;1;26;combined;2;8;;;doplnovacka-sklonovani-a-casovani-mix-2-uroven;0;1;0
+610;143;1;26;combined;3;10;;;doplnovacka-sklonovani-a-casovani-mix-3-uroven;0;1;0
+611;151;1;26;combined;2;8;;;doplnovacka-velka-pismena-lide-cas-mix-2-uroven;0;1;0
+612;151;1;26;combined;3;10;;;doplnovacka-velka-pismena-lide-cas-mix-3-uroven;0;1;0
+613;152;1;26;combined;1;5;;;doplnovacka-velka-pismena-mista-mix-1-uroven;0;1;0
+614;152;1;26;combined;2;9;;;doplnovacka-velka-pismena-mista-mix-2-uroven;0;1;0
+615;152;1;26;combined;3;10;;;doplnovacka-velka-pismena-mista-mix-3-uroven;0;1;0
+616;153;1;26;combined;1;4;;;doplnovacka-psani-e-mix-1-uroven;0;1;0
+617;106;1;23;basic;2;5;;;pexeso-slovni-druhy-2-uroven;0;1;0
+618;159;1;23;basic;2;6;;;pexeso-podstatna-jmena-vzory-2-uroven;0;1;0
+619;150;1;10;combined;1;0;Koncovky podstatných jmen;;zavody-koncovky-podstatnych-jmen;0;1;0
+620;153;1;10;combined;1;0;Psaní mě a mně mix;;zavody-psani-me-a-mne;0;1;0
+621;156;1;10;combined;1;0;;;zavody-delka-samohlasek;0;1;0
+622;53;1;10;combined;1;0;;;zavody-prejata-slova-souhlasky;0;1;0
+623;54;1;10;combined;1;0;;;zavody-prejata-slova-samohlasky;0;1;0
+624;63;1;10;combined;1;0;;;zavody-velka-pismena-lide-jmena;0;1;0
+625;64;1;10;combined;1;0;;;zavody-velka-pismena-narody-skupiny-osob;0;1;0
+626;65;1;10;combined;1;0;;;zavody-velka-pismena-instituce-organizace;0;1;0
+627;66;1;10;combined;1;0;;;zavody-velka-pismena-dny-obdobi-udalosti;0;1;0
+628;67;1;10;combined;1;0;;;zavody-velka-pismena-geografie-priroda-vesmir;0;1;0
+629;68;1;10;combined;1;0;;;zavody-velka-pismena-staty-oblasti;0;1;0
+630;69;1;10;combined;1;0;;;zavody-velka-pismena-mesta-ulice;0;1;0
+631;70;1;10;combined;1;0;;;zavody-velka-pismena-budovy-stavby;0;1;0
+632;148;1;10;combined;1;0;;;zavody-interpunkce-mezery-zkratky;0;1;0
+633;39;1;10;combined;1;0;;;zavody-shoda-prisudku-s-podmetem;0;1;0
+634;44;1;10;combined;1;0;;;zavody-psani-nn-a-n;0;1;0
+635;150;1;18;combined;1;0;Koncovky podstatných jmen;;uzemicka-koncovky-podstatnych-jmen;0;1;0
+636;44;1;18;combined;1;0;;;uzemicka-psani-nn-a-n;0;1;0
+637;47;1;18;combined;1;0;;;uzemicka-psani-s-z-na-zacatku-slova;0;1;0
+638;49;1;18;combined;1;0;;;uzemicka-souhlasky-parove;0;1;0
+639;64;1;18;combined;1;0;;;uzemicka-velka-pismena-narody-skupiny-osob;0;1;0
+640;68;1;18;combined;1;0;;;uzemicka-velka-pismena-staty-oblasti;0;1;0
+641;69;1;18;combined;1;0;;;uzemicka-velka-pismena-mesta-ulice;0;1;0
+642;70;1;18;combined;1;0;;;uzemicka-velka-pismena-budovy-stavby;0;1;0
+643;132;1;18;combined;1;0;;;uzemicka-spisovne-nespisovne;0;1;0
+644;161;1;19;basic;2;7;;;nove-otazky-zaklady-slovenstiny;0;1;0
+645;106;1;23;basic;1;3;;;pexeso-slovni-druhy-1-uroven;0;1;0
+646;108;1;23;basic;2;5;;;pexeso-pady-2-uroven;0;1;0
+647;40;1;8;combined;1;7;;;strilecka-psani-me-mne-ve-slove;0;1;0
+648;153;1;8;combined;1;7;;;strilecka-psani-e-mix;0;1;0
+649;163;1;5;basic;1;3;;;rozbory-druhy-vet-oznamovaci-tazaci-praci;0;1;0
+650;103;1;5;basic;1;0;;;rozbory-urcovani-podstatna-jmena-1-uroven;0;1;0
+651;105;1;5;basic;1;0;;;rozbory-urcovani-sloves-1-uroven;0;1;0

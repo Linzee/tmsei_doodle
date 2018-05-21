@@ -1,0 +1,155 @@
+id;parent;name;nameMenu;title;description;ogimage;url;image;visible;ordering
+1;74;I/Y Vyjmenovaná slova;;;;;;;1;2
+2;74;Y/I Koncovky;;;;;;;1;3
+3;73;Psaní ě;;;;;;;1;1
+4;73;Zdvojené hlásky;;;;;;;1;2
+5;73;Párové hlásky;;;;;;;1;3
+7;0;Skloňování a časování;;;;;sklonovani-a-casovani;sklonovani.png;1;3
+8;0;Interpunkce;;;;;interpunkce-mezery-zkratky;teckymezery.png;1;5
+9;78;Velká písmena: lidé, skupiny, organizace, čas;;;;;;;1;0
+10;78;Velká písmena: místa;;;;;;;1;0
+11;79;Věta jednoduchá;;;;;;;1;0
+12;79;Souvětí;;;;;;;1;0
+13;88;Větné členy;;;;;;;1;0
+15;0;Tematická zadání;;;;;tematicka-zadani;diktat_ikona.png;1;19
+20;88;Stavba slov;;;;;;;1;0
+21;88;Stavba vět;;;;;;;1;0
+22;125;Vztahy slov;;;;;;;1;0
+23;125;Význam cizích slov;;;;;;;1;0
+25;125;Slovní hrátky;;;;;;;1;0
+26;1;Vyjmenovaná slova B;;;;;;;1;0
+27;1;Vyjmenovaná slova L;;;;;;;1;0
+28;1;Vyjmenovaná slova M;;;;;;;1;0
+29;1;Vyjmenovaná slova P;;;;;;;1;0
+30;1;Vyjmenovaná slova S;;;;;;;1;0
+31;1;Vyjmenovaná slova V;;;;;;;1;0
+32;1;Vyjmenovaná slova Z;;;;;;;1;0
+33;2;Koncovky podstatných jmen: mužský rod;;;;;;;1;0
+34;2;Koncovky podstatných jmen: ženský rod;;;;;;;1;0
+35;2;Koncovky podstatných jmen: střední rod;;;;;;;1;0
+36;2;Koncovky přídavných jmen (jarní/mladý);;;;;;;1;0
+37;2;Koncovky ovi/ovy;;;;;;;1;0
+38;2;Koncovky mi/my/ma;;;;;;;1;0
+39;2;Shoda přísudku s podmětem;;;;;;;1;0
+40;3;Psaní mě/mně ve slově;;;;;;;1;0
+41;3;Mě/mně (zájmeno já);;;;;;;1;0
+42;3;Psaní bě/bje;;;;;;;1;0
+43;3;Psaní vě/vje;;;;;;;1;0
+44;4;Psaní n/nn;;;;;;;1;0
+45;4;Další zdvojené souhlásky: dd, zz, kk, cc, jj, ...;;;;;;;1;0
+46;4;Jedno versus dvě písmena: c/ts, s/zs, ...;;;;;;;1;0
+47;5;Psaní s/z na začátku slova;;;;;;;1;0
+48;5;Předložky s/z;;;;;;;1;0
+49;5;Souhlásky párové: p/b, t/d, v/f, ...;;;;;;;1;0
+50;5;Psaní š/č, š/ž;;;;;;;1;0
+51;77;Délka samohlásek: u/ú/ů;;;;;;;1;0
+52;77;Délka samohlásek: i/í;;;;;;;1;0
+53;76;Přejatá slova: souhlásky;;;;;;;1;0
+54;76;Přejatá slova: samohlásky;;;;;;;1;0
+55;147;Skloňování zájmen: jež/jenž, nímž, ji/jí,...;;;;;;;1;0
+56;147;Skloňování přídavných jmen;;;;;;;1;0
+57;147;Skloňování podstatných jmen;;;;;;;1;0
+58;147;Slovesa: podmiňovací způsob (bychom), zvratná (sis);;;;;;;1;0
+59;148;Zkratky;;;;;;;1;0
+60;148;Číslovky a mezery;;;;;;;1;0
+61;73;Spřežky;;;;;;;1;5
+62;148;Interpunkční znaménka;;;;;;;1;0
+63;9;Velká písmena: lidé, jména;;;;;;;1;0
+64;9;Velká písmena: národy, skupiny osob;;;;;;;1;0
+65;9;Velká písmena: instituce, organizace;;;;;;;1;0
+66;9;Velká písmena: dny, období, události;;;;;;;1;0
+67;10;Velká písmena: geografie, příroda, vesmír;;;;;;;1;0
+68;10;Velká písmena: státy, oblasti;;;;;;;1;0
+69;10;Velká písmena: města, části měst, ulice;;;;;;;1;0
+70;10;Velká písmena: budovy, stavby;;;;;;;1;0
+71;75;Měkké a tvrdé souhlásky;;;;;;;1;0
+73;0;Podobně znějící;;;;;podobne-znejici;podobneznejici.png;1;2
+74;0;Psaní i/y;;;;;psani-iy-vyjmenovana-koncovky;yi2.png;1;1
+75;74;Měkké a tvrdé souhlásky;;;;;;;1;1
+76;73;Přejatá slova;;;;;;;1;6
+77;73;Délka samohlásek;;;;;;;1;4
+78;0;Velká písmena;;;;;velka-pismena;velka_pismena.png;1;4
+79;0;Čárky;;;;;psani-carek;carky2.png;1;6
+80;11;Čárky ve větě jednoduché: přívlastek, přístavek;;;;;;;1;0
+81;11;Čárky ve větě jednoduché: několikanásobné větné členy;;;;;;;1;0
+82;11;Čárky ve větě jednoduché: a, nebo;;;;;;;1;0
+83;11;Čárky ve větě jednoduché: další případy;;;;;;;1;0
+84;12;Čárky v souvětí souřadném;;;;;;;1;0
+85;12;Čárky v souvětí podřadném;;;;;;;1;0
+86;12;Čárky v souvětí: vložené věty vedlejší;;;;;;;1;0
+87;12;Čárky v souvětí s více větami;;;;;;;1;0
+88;0;Rozbory vět, stavba slov;;;;;rozbory-vet-stavba-slov;teckymezery.png;1;7
+89;13;Větné členy: podmět, přísudek;;;;;;;1;0
+90;13;Větné členy obecně;;;;;;;1;0
+91;20;Určování souhlásek a samohlásek;;;;;;;1;0
+92;20;Dělení slov na slabiky;;;;;;;1;0
+93;20;Určování kořene;;;;;;;1;0
+94;20;Určování předpony;;;;;;;1;0
+95;20;Předpona, kořen, přípona, koncovka;;;;;;;1;0
+96;21;Věta hlavní;;;;;;;1;0
+97;21;Typy vedlejších vět;;;;;;;1;0
+98;0;Tvarosloví;;;;;tvaroslovi;vetne_cleny2.png;1;8
+99;98;Slovní druhy;;;;;;;1;0
+100;98;Mluvnické kategorie podstatného jména;;;;;;;1;0
+101;98;Mluvnické kategorie sloves;;;;;;;1;0
+102;98;Mluvnické kategorie dalších slovních druhů;;;;;;;1;0
+103;99;Určování podstatných jmen;;;;;;;1;0
+104;99;Určování přídavných jmen;;;;;;;1;0
+105;99;Určování sloves;;;;;;;1;0
+106;99;Určování slovních druhů;;;;;;;1;0
+107;100;Podstatná jména: rody;;;;;;;1;0
+108;100;Podstatná jména: pády;;;;;;;1;0
+109;100;Podstatná jmena: vzory mužského rodu;;;;;;;1;0
+110;100;Podstatná jmena: vzory ženského rodu;;;;;;;1;0
+111;100;Podstatná jmena: vzory středního rodu;;;;;;;1;0
+112;100;Podstatná jména: jmenné číslo;;;;;;;1;0
+113;100;Podst. jména pomnožná, hromadná, látková;;;;;;;1;0
+114;101;Slovesná osoba;;;;;;;1;0
+115;101;Slovesný čas;;;;;;;1;0
+116;101;Slovesný způsob;;;;;;;1;0
+117;101;Slovesný vzor;;;;;;;1;0
+118;101;Slovesný vid;;;;;;;1;0
+119;101;Slovesný rod;;;;;;;1;0
+120;101;Slovesné tvary neurčité;;;;;;;1;0
+121;101;Slovesa: osobní, neosobní;;;;;;;1;0
+122;102;Číslovky: druhy;;;;;;;1;0
+123;102;Zájmena: druhy;;;;;;;1;0
+124;102;Příslovce: druhy;;;;;;;1;0
+125;0;Slova a jejich význam;;;;;slova-a-jejich-vyznam;podobneznejici.png;1;9
+126;22;Slova souznačná (synonyma);;;;;;;1;0
+127;22;Slova protikladná (antonyma);;;;;;;1;0
+128;22;Slova souzvučná (homonyma);;;;;;;1;0
+129;22;Slova souřadná;;;;;;;1;0
+130;22;Slova podřadná;;;;;;;1;0
+131;125;Nespisovná slova, nářečí, archaická slova;;;;;;;1;0
+132;131;Spisovná a nespisovná slova;;;;;;;1;0
+133;131;Slova zastaralá (archaismy);;;;;;;1;0
+134;131;Nářečí: brněnský hantec;;;;;;;1;0
+135;23;Význam cizích slov: podstatná jména;;;;;;;1;1
+136;23;Význam cizích slov: slovesa;;;;;;;1;2
+137;23;Význam cizích slov: přídavná jména;;;;;;;1;1
+139;12;Čárky v souvětí: speciální případy;;;;;;;1;0
+140;15;Tematická zadání: čárky;;;;;;;1;0
+141;15;Tematická zadání: diktáty;;;;;;;1;0
+142;74;Psaní i/y: mix;;;;;;;1;10
+143;147;Skloňování a časování: mix;;;;;;;1;0
+144;73;Podobně znějící: mix;;;;;;;1;20
+145;15;Tematická zadání: mluvené diktáty;;;;;;;1;0
+146;15;Tematická zadání: vtipy;;;;;;;1;0
+147;7;Skloňování a časování;;;;;;;1;0
+148;8;Interpunkce, mezery, zkratky;;;;;;;1;0
+149;1;Vyjmenovaná slova: mix;;;;;;;1;0
+150;2;Koncovky: mix;;;;;;;1;0
+151;9;Velká písmena: mix lidé, čas;;;;;;;1;0
+152;10;Velká písmena: mix místa;;;;;;;1;0
+153;3;Psaní ě: mix;;;;;;;1;0
+154;4;Zdvojené hlásky: mix;;;;;;;1;0
+155;5;Párové hlásky: mix;;;;;;;1;0
+156;77;Délka samohlásek: mix;;;;;;;1;0
+157;76;Přejatá slova: mix;;;;;;;1;0
+158;15;Tematická zadání: korektor;;;;;;;1;0
+159;100;Podstatná jména: vzory mix;;;;;podstatna-jmena-vzory-mix;;1;0
+160;125;Slovenština;;;;;;;1;0
+161;160;Základy slovenštiny;;;;;;;1;0
+162;88;Druhy vět;;;;;;;1;0
+163;162;Oznamovací, tázací, přací;;;;;;;1;0
