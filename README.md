@@ -32,3 +32,5 @@ source matmat/bin/activate
 cd notebooks
 jupyter notebook
 ```
+
+> Most reccent version of this repository is avalaible at [GitHub](https://github.com/Linzee/tmsei_doodle).
