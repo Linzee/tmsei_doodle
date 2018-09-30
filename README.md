@@ -28,7 +28,7 @@ Activate virtual environment and start Jupiter server
 
 ```
 cd <path_to_your_local_git_repo>
-source matmat/bin/activate
+source venv/bin/activate
 cd notebooks
 jupyter notebook
 ```
